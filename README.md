@@ -4,13 +4,12 @@ Hi everyone, this is Rob. I'm a senior systems developer, and I'm also working o
 This will be my third degree from Tufts overall, as I also completed my undergraduate degree in mathematics here.
 I have been auditing graduate courses in economics and philosophy (spring 2025).
 
-As an undergraduate, I was focused on pure mathematics, also spending several years in Tufts' Russian department with the intention of studying the works of Russian mathematicians in analysis and topology, and in 2015 I published a paper in number theory on $p$-adic dynamical systems, [A *p*-adic Perron-Frobenius Theorem](https://arxiv.org/abs/1509.01702).
-I also became interested in set theory, type theory, category theory, and logic.
+As an undergraduate, I was focused on pure mathematics, also spending several years in Tufts' Russian department with the intention of studying the works of Russian mathematicians in analysis and topology, and in 2015 I published a paper in number theory on *p*-adic dynamical systems, [A *p*-adic Perron-Frobenius Theorem](https://arxiv.org/abs/1509.01702).
+I also enjoyed set theory, type theory, category theory, and logic.
 
 I am now focused on computer science&ndash;implementating algorithms for efficient systems operations and machine learning&ndash;and applied mathematics&ndash;the foundations of machine learning and financial analysis.
 This site below contains a list of resources I've been compiling on financial analysis, quantitative methods, and automated trading.
 [Let me know](mailto:robertcosta378@gmail.com) if you're interested in collaborating.
-Thank you! &mdash;Rob, 2/1/25
 
 ## Book References
 
