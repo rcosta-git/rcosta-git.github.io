@@ -72,26 +72,26 @@ This is primarily research I encountered at JMM 2025.
 - [Wavelet Based Reinforcement Learning for Pairs Trading Across Multiple Asset Classes](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/45119)
 
 ## GitHub repositories
-- https://github.com/thequantpy
-- https://github.com/nickmccullum/algorithmic-trading-python
-- https://github.com/Alejandro-Duenas/deep-learning-portfolio
-- https://github.com/moondevonyt/moon-dev-ai-agents-for-trading
+- [thequantpy](https://github.com/thequantpy)
+- [Algorithmic Trading in Python](https://github.com/nickmccullum/algorithmic-trading-python)
+- [Deep Learning Portfolio](https://github.com/Alejandro-Duenas/deep-learning-portfolio)
+- [Moon Dev AI Agents for Trading](https://github.com/moondevonyt/moon-dev-ai-agents-for-trading)
 
 ## Medium articles
-- https://drlee.io/advanced-stock-pattern-prediction-using-lstm-with-the-attention-mechanism-in-tensorflow-a-step-by-143a2e8b0e95
-- https://kaabar-sofien.medium.com/how-to-create-a-sentiment-analysis-model-in-python-cf03cb9988e0
-- https://medium.com/@kaveh.kamali/how-i-found-a-simple-way-to-use-machine-learning-in-stock-trading-6c80795cd95f
-- https://medium.com/@zodiactrading/top-10-quantitative-trading-strategies-with-python-82b1eff67650
-- https://medium.datadriveninvestor.com/creating-a-scalping-strategy-in-python-with-a-74-win-rate-53a17662ff03
-- https://medium.com/@harshiljani2002/building-stock-market-engine-from-scratch-in-rust-i-9be7c110e137
-- https://databento.medium.com/algorithmic-trading-guide-high-frequency-liquidity-taking-strategy-f1a04172d5d5
-- https://levelup.gitconnected.com/backtesting-the-most-underrated-sma-trading-strategy-which-beats-the-market-b7a2f588a502
-- https://medium.com/@crisvelasquez/algorithmically-identifying-stock-price-support-resistance-in-python-b9095f9aa279
-- https://liamlincoln.medium.com/i-have-just-created-a-trading-ea-monster-c87a523afe7e
-- https://medium.com/@amaltyagi/3-secure-trading-strategies-for-2024-2a922c5aee64
-- https://medium.com/@austin-starks/i-built-an-algorithmic-trading-system-in-rust-heres-what-i-regret-a89f378b22c9
-- https://wire.insiderfinance.io/architecting-a-trading-system-57ee3963e52a
-- https://medium.com/@rgaveiga/python-for-options-trading-3-a-trade-with-100-probability-of-profit-886e934addbf
-- https://medium.com/rustaceans/rust-in-finance-building-a-scalable-high-frequency-trading-platform-from-scratch-339cdf9d6f08
-- https://levelup.gitconnected.com/an-algo-trading-strategy-which-made-8-371-a-python-case-study-58ed12a492dc
-- https://medium.datadriveninvestor.com/an-in-depth-guide-on-mathematically-improving-your-trading-strategy-fa8ac2a0e5da
+- [Advanced Stock Pattern Prediction Using LSTM with Attention Mechanism](https://drlee.io/advanced-stock-pattern-prediction-using-lstm-with-the-attention-mechanism-in-tensorflow-a-step-by-143a2e8b0e95)
+- [How to Create a Sentiment Analysis Model in Python](https://kaabar-sofien.medium.com/how-to-create-a-sentiment-analysis-model-in-python-cf03cb9988e0)
+- [How I Found a Simple Way to Use Machine Learning in Stock Trading](https://medium.com/@kaveh.kamali/how-i-found-a-simple-way-to-use-machine-learning-in-stock-trading-6c80795cd95f)
+- [Top 10 Quantitative Trading Strategies with Python](https://medium.com/@zodiactrading/top-10-quantitative-trading-strategies-with-python-82b1eff67650)
+- [Creating a Scalping Strategy in Python with a 74% Win Rate](https://medium.datadriveninvestor.com/creating-a-scalping-strategy-in-python-with-a-74-win-rate-53a17662ff03)
+- [Building a Stock Market Engine from Scratch in Rust (Part I)](https://medium.com/@harshiljani2002/building-stock-market-engine-from-scratch-in-rust-i-9be7c110e137)
+- [Algorithmic Trading Guide: High-Frequency Liquidity-Taking Strategy](https://databento.medium.com/algorithmic-trading-guide-high-frequency-liquidity-taking-strategy-f1a04172d5d5)
+- [Backtesting the Most Underrated SMA Trading Strategy](https://levelup.gitconnected.com/backtesting-the-most-underrated-sma-trading-strategy-which-beats-the-market-b7a2f588a502)
+- [Algorithmically Identifying Stock Price Support & Resistance in Python](https://medium.com/@crisvelasquez/algorithmically-identifying-stock-price-support-resistance-in-python-b9095f9aa279)
+- [I Have Just Created a Trading EA Monster](https://liamlincoln.medium.com/i-have-just-created-a-trading-ea-monster-c87a523afe7e)
+- [3 Secure Trading Strategies for 2024](https://medium.com/@amaltyagi/3-secure-trading-strategies-for-2024-2a922c5aee64)
+- [I Built an Algorithmic Trading System in Rust – Here’s What I Regret](https://medium.com/@austin-starks/i-built-an-algorithmic-trading-system-in-rust-heres-what-i-regret-a89f378b22c9)
+- [Architecting a Trading System](https://wire.insiderfinance.io/architecting-a-trading-system-57ee3963e52a)
+- [Python for Options Trading #3: A Trade with 100% Probability of Profit](https://medium.com/@rgaveiga/python-for-options-trading-3-a-trade-with-100-probability-of-profit-886e934addbf)
+- [Rust in Finance: Building a Scalable High-Frequency Trading Platform](https://medium.com/rustaceans/rust-in-finance-building-a-scalable-high-frequency-trading-platform-from-scratch-339cdf9d6f08)
+- [An Algo Trading Strategy That Made 8,371% – A Python Case Study](https://levelup.gitconnected.com/an-algo-trading-strategy-which-made-8-371-a-python-case-study-58ed12a492dc)
+- [An In-Depth Guide on Mathematically Improving Your Trading Strategy](https://medium.datadriveninvestor.com/an-in-depth-guide-on-mathematically-improving-your-trading-strategy-fa8ac2a0e5da)
