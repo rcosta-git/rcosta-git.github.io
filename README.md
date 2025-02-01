@@ -1,6 +1,7 @@
 # Financial Analysis and Automated Trading
 
-Hi everyone, this is Rob. I'm a senior systems developer, and I'm also working on a second master's degree at Tufts University in mathematics, after completing one in computer science.
+Hi everyone, this is Rob.
+I'm a senior systems developer, and I'm also working on a second master's degree at Tufts University in mathematics, after completing one in computer science.
 This will be my third degree from Tufts overall, as I also completed my undergraduate degree in mathematics here.
 I have been auditing graduate courses in economics and philosophy (spring 2025).
 
@@ -11,20 +12,32 @@ I am now focused on computer science&ndash;implementating algorithms for efficie
 This site below contains a list of resources I've been compiling on financial analysis, quantitative methods, and automated trading.
 [Let me know](mailto:robertcosta378@gmail.com) if you're interested in collaborating.
 
-## Book References
+## Classic and Historic Literature References
 
-- For fundamental analysis, look at Murphy's [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf).
-- For technical analysis, check out Graham and Dodd's [Security Analysis: Principles and Technique](https://glenbradford.com/files/Stocks/security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg.pdf).
-- For bonds and yields, the standard is Leibowitz and Homer's [Inside the Yield Book](https://archive.org/details/insideyieldbookn00home).
-- The best book I know on machine learning is Bishop's [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
-- Some good books include "High Probability Trading," "Option Volatility and Pricing," Technical Analysis of the Financial Markets," "Options Trading: The Bible", "Mind over Markets."
-- For more historical perspectives, I also enjoy reading the Market Wizards books, When Genius Failed, and Michael Lewis's writings from the last few decades such as Liar's Poker.
-- Also for more general tips, "The Money Game," "Mastering the Trade" and "Trading in the Zone," or memoirs like "How I Made $2,000,000 in the Stock Market" from Nicolas Darvas and "Reminiscences of a Stock Operator" about Jesse Livermore.
+- Adam Smith's 1776 [An Inquiry into the Nature and Causes of the Wealth of Nations](https://books.google.com/books/about/The_Wealth_of_Nations.html), often abbreviated as *The Wealth of Nations*, is considered his magnum opus and the first modern work that treats economics as a comprehensive system and an academic discipline.
+- Louis Bachelier is credited with being the first person to model the stochastic process now called Brownian motion, as part of his doctoral thesis [The Theory of Speculation (Théorie de la spéculation, defended in 1900)](https://drive.google.com/file/d/0B5LLDy7-d3SKNGI0M2E0NGItYzFlMS00NGU2LWE2ZDAtODc3MDY3MzdiNmY0/view?resourcekey=0-Lt7g2RprpC0KqoGgzQ17nQ).
+- Charles Dow published 255 editorials in the Wall Street Journal analyzing American stock market data using technical analysis, forming the foundations of what is now called *Dow theory*. William Hamilton expanded upon Dow theory in [The Stock Market Barometer](https://stock-market-observations.com/wp-content/uploads/2013/02/the-stock-market-barometer-by-william-hamilton.pdf) (1922).
+- Richard Schabacker continued the work of Dow and Hamilton in [Technical Analysis and Stock Market Profits](https://themarket101.wordpress.com/wp-content/uploads/2012/12/technical-analysis-and-stock-market-profits.pdf) (1932).
+- Benjamin Graham and David Dodd laid out the foundations of fundamental analysis in [Security Analysis: Principles and Technique](https://glenbradford.com/files/Stocks/security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg.pdf) (1934). Graham further developed value investing in [The Intelligent Investor](https://yourknowledgedigest.org/wp-content/uploads/2020/04/the-intelligent-investor.pdf) (1949).
+- [The General Theory of Employment, Interest, and Money](https://www.files.ethz.ch/isn/125515/1366_keynestheoryofemployment.pdf) (1936) by John Maynard Keynes replaced the neoclassical understanding of employment with Keynes' view that demand, and not supply, is the driving factor determining levels of employment.
+- Alfred Cowles founded Yale's Cowles Commission for Research in Economics, which advanced the field of econometrics in the 20th century. Two notable of his notable publications in *Econometrica* are [Stock Market Forecasting](https://www.jstor.org/stable/1905433) (1944) and [A Revision of Previous Conclusions Regarding Stock Price Behavior](https://www.jstor.org/stable/1907573) (1960).
+- In 1948, Robert Edwards and John Magee published [Technical Analysis of Stock Trends](https://vdthangmeomeo.wordpress.com/wp-content/uploads/2014/08/edwards-magee-technical-analysis-of-stock-trends-9th-edition.pdf).
+- The Markowitz model of portfolio management was put forward by Harry Markowitz in 1952 in [Portfolio Selection: Efficient Diversification of Investments](https://www.math.hkust.edu.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf).
+- One of Milton Friedman's most popular works, [A Theory of the Consumption Function](https://www.nber.org/books-and-chapters/theory-consumption-function) (1957), challenged traditional Keynesian viewpoints about the household. He went on to publish [Capitalism and Freedom](http://pombo.free.fr/friedman2002.pdf) (1962), in which he argues for economic freedom as a precondition for political freedom.
+- William Sharpe was one of the originators of the capital asset pricing model (CAPM) in his [Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1964.tb02865.x) (1964), despite it originally being rejected for publication. He developed the Sharpe ratio for evaluating returns on risk in [Mutual Fund Performance](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/sharpe__mutual_fund_performance.pdf) (1966).
+- The science of bond analysis was largely developed by Martin Leibowitz and Sidney Homer's [Inside the Yield Book](https://archive.org/details/insideyieldbookn00home) (1972).
+- For a modern guide to technical analysis, take a look at John Murphy's [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf) (1999).
+- For an overview of the current state of macroeconomics, see Brian Snowdon and Howard Vane's [Modern Macroeconomics](https://www.ricardopanza.com.ar/files/macro2/Modern_Macroeconomics_Snowdon___Vane_05.pdf) (2005) and Sanjay Chugh's [Modern Macroeconomics](https://nibmehub.com/opac-service/pdf/read/Modern%20Macroeconomics.pdf) (2015).
+
+## Books on trading
+- Some good books on trading include *High Probability Trading*, *Option Volatility and Pricing*, *Options Trading: The Bible*, *Get Rich With Options*, and *Mind over Markets*.
+- For more historical perspectives on trading, I also enjoyed reading the *Market Wizards* books, *When Genius Failed*, and Michael Lewis's writings from the last few decades such as *Liar's Poker*.
+- Also for more general tips, *The Money Game*, *Mastering the Trade*, and *Trading in the Zone*, or memoirs like *How I Made $2,000,000 in the Stock Market* from Nicolas Darvas and *Reminiscences of a Stock Operator* about Jesse Livermore.
 
 ## Mathematicians who have had trading success
-- Leibowitz of Inside the Yield Book had a PhD in math before going into finance.
-- Professor Edward Thorp started one of the first hedge funds based on statistical arbitrage. Check out his autobiography "A Man for all Markets," along with "Beat the Dealer" and "Beat the Market."
-- Alongside Thorp as one of the first "quants" who applied mathematical and algorithmic principals to Wall Street is Jim Simons, known in math for the Chern-Simons form, and famous publicly for his hedge fund Rennaissance Technology and its Medallion Fund. His life is chronicled in the biography "The Man Who Solved the Market."
+- Leibowitz of *Inside the Yield Book* had a PhD in math before going into finance.
+- Professor Edward Thorp started one of the first hedge funds based on statistical arbitrage. Check out his autobiography *A Man for all Markets*, along with *Beat the Dealer* and *Beat the Market*.
+- Alongside Thorp as one of the first "quants" who applied mathematical and algorithmic principals to Wall Street is Jim Simons, known in math for the Chern-Simons form, and famous publicly for his hedge fund Rennaissance Technology and its Medallion Fund. His life is chronicled in the biography *The Man Who Solved the Market*.
 
 ## Video References
 
@@ -51,7 +64,6 @@ This site below contains a list of resources I've been compiling on financial an
 - If you want to go more in depth, there's a guy I used to watch who does pretty long detailed videos. [Here's his video on both types of vertical spreads.](https://www.youtube.com/watch?v=mwttDWfDQ9c)
 - There is also the wheel, which requires owning the underlying stock. [Here's a video on it.](https://www.youtube.com/watch?v=EcsErh9Airs&t=395s)
 - Once you start watching these videos, you'll find a lot of similar channels with different people's explanations and strategies, so I encourage you to explore and discover new channels that work for you!
-
 
 ## Research
 
