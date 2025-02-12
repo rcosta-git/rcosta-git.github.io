@@ -57,6 +57,7 @@ This site below contains a list of resources I've been compiling on financial an
   - How to Code an AI Trading bot - 35 min demo. [Video here.](https://www.youtube.com/watch?v=c9OjEThuJjY)
 
 ### Videos about understanding options
+Options contracts are a type of derivative instrument, because they are *derived* from an underlying asset (a security specified by a stock symbol), a strike price, and an expiration date. A **call** option gives you the right to *buy* 100 shares of a security at the strike price before the expiration date, and a **put** option gives you the right to *sell* 100 shares of a security at the strike price before the expiration date. The current value of an options contract is a function of the time remaining until expiration, the current price of the underlying security, and the volatility. The **intrinsic value** is the amount of money that can be made by exercising the security at expiration if it were to expire today; if it expires *in the money*, meaning the stock price is currently above the strike price for calls, or below the strike price for puts, then this is given by the difference between the current price of the stock and the strike price, multiplied by 100. Otherwise, it is *out of the money*, and the intrinsic value is just $0 (it has no intrinstic value). The **extrinsic value** (or **time value**) is the value derived from the uncertainty and volatility when there is still time remaining until expiration. The total value is the sum of these. Since the time value exponentially decays down to $0 by the expiration date (a process called "theta decay" or "time decay"), at expiration the total value of the option is just the intrinsic value, which may also be $0. Holders of options contracts often will try to sell before expiration, to avoid the decaying value. Sellers of options profit from time decay.
 
 - Pretty much all complex options strategies are made by combining different types of spreads. These all require level 3 options trading. For a basic overview of options, start [here](https://www.youtube.com/watch?v=4HMm6mBvGKE) and [here](https://www.youtube.com/watch?v=MiybniIIvx0). You may also want to start learning about [the Greeks](https://www.youtube.com/watch?v=kCJcEOYuuII).
 - Here is a nice video on long vertical spreads, also called debit spreads, which is probably the most similar to buying calls or puts directly. The difference is you somewhat offset theta decay (though also limiting your maximum possible gain) by simultaneously selling an equal number of options. [Here is the video.](https://www.youtube.com/watch?v=1SVswX2V_vE)
@@ -64,6 +65,13 @@ This site below contains a list of resources I've been compiling on financial an
 - If you want to go more in depth, there's a guy I used to watch who does pretty long detailed videos. [Here's his video on both types of vertical spreads.](https://www.youtube.com/watch?v=mwttDWfDQ9c)
 - There is also the wheel, which requires owning the underlying stock. [Here's a video on it.](https://www.youtube.com/watch?v=EcsErh9Airs&t=395s)
 - Once you start watching these videos, you'll find a lot of similar channels with different people's explanations and strategies, so I encourage you to explore and discover new channels that work for you!
+
+### Videos about understanding futures
+Futures, like options, are also a type of derivative, whose price is based on an underlying asset, whether it's an index (e.g., for E-mini S&P futures contracts), or commodities like gold, Bitcoin, corn, and oil. While futures have an expiration date, and quite a bit of leverage, their profit and loss settles to the difference with the underlying more linearly, in a way that is more comparable to forex. The margin requirements offset the leverage they provide, and further leverage can be provided by trading options on futures.
+
+- [What are Futures?](https://www.youtube.com/watch?v=1Mhk4UHJsRc)
+- [What are futures? - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=nwR5b6E0Xo4)
+- [Understanding Futures Margin](https://www.youtube.com/watch?v=zPyLCUQdh7I)
 
 ## Research
 
