@@ -12,6 +12,31 @@ I am now focused on computer science&ndash;implementating algorithms for efficie
 This site below contains a list of resources I've been compiling on financial analysis, quantitative methods, and automated trading.
 [Let me know](mailto:robertcosta378@gmail.com) if you're interested in collaborating.
 
+## Quantitative Analysis Literature References
+A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but the "word on the street" (Wall Street) is that Hidden Markov Models are quite useful in modeling finance trends. I am hoping to work on making some finance models more accessible, including strategies for online and semisupervised learning algorithms, while keeping some of the code I develop still a secret between my collaborators. Here is some published literature on portfolio analysis and hedging, and see the below section for more recent research.
+
+- For a modern guide to technical analysis, take a look at John Murphy's [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf) (1999).
+- Darrell Duffie wrote a widely referenced [2001 book on Dynamic Asset Pricing Theory](https://github.com/auscott/books/blob/main/Darrell%20Duffie%20-%20Dynamic%20Asset%20Pricing%20Theory%2C%20Third%20Edition.-Princeton%20University%20Press%20(2001).pdf), as well as a [2002 survey of Intertemporal Asset Pricing Theory](https://web.stanford.edu/~duffie/survey.pdf).
+- Tufts President Sunil Kumar, who told me about the above book at a February 2025 Hackathon, has a background in probability theory and published a 2006 paper on [Multidimensional portfolio optimization with proportional transaction costs](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9965.2006.00273.x).
+
+## Recent Research
+
+This is primarily research I encountered at [JMM 2025](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program.html).
+
+### Articles
+- [Predicting stock market index using LSTM](https://www.sciencedirect.com/science/article/pii/S2666827022000378)
+- [Predicting NEPSE index price using deep learning models](https://www.sciencedirect.com/science/article/pii/S2666827022000706)
+- [Hedging via Perpetual Derivatives: Trinomial Option Pricing and Implied Parameter Surface Analysis](https://arxiv.org/abs/2410.04748)
+- [The Distribution Builder: A Tool for Inferring Investor Preferences](https://web.stanford.edu/~wfsharpe/art/qpaper/qpaper.html)
+- [Analysis of Investment Returns as Markov Chain Random Walk](https://onlinelibrary.wiley.com/doi/10.1155/2024/3966566)
+
+### Unpublished AMS abstracts
+- [Can We See the Next Recession Coming? Deep Learning in Economic Forecasting.](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41055)
+- [FOREX Prediction Using Deep Learning](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/43462)
+- [Deep Learning Techniques for Equity Portfolio Construction, Optimization, and Performance Analysis](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/45238)
+- [Wavelet Based Reinforcement Learning for Pairs Trading Across Multiple Asset Classes](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/45119)
+
+
 ## Classic and Historic Literature References
 
 - Adam Smith's 1776 [An Inquiry into the Nature and Causes of the Wealth of Nations](https://books.google.com/books/about/The_Wealth_of_Nations.html), often abbreviated as *The Wealth of Nations*, is considered his magnum opus and the first modern work that treats economics as a comprehensive system and an academic discipline.
@@ -72,23 +97,6 @@ Futures, like options, are also a type of derivative, whose price is based on an
 - [What are Futures?](https://www.youtube.com/watch?v=1Mhk4UHJsRc)
 - [What are futures? - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=nwR5b6E0Xo4)
 - [Understanding Futures Margin](https://www.youtube.com/watch?v=zPyLCUQdh7I)
-
-## Research
-
-This is primarily research I encountered at JMM 2025.
-
-### Articles
-- [Predicting stock market index using LSTM](https://www.sciencedirect.com/science/article/pii/S2666827022000378)
-- [Predicting NEPSE index price using deep learning models](https://www.sciencedirect.com/science/article/pii/S2666827022000706)
-- [Hedging via Perpetual Derivatives: Trinomial Option Pricing and Implied Parameter Surface Analysis](https://arxiv.org/abs/2410.04748)
-- [The Distribution Builder: A Tool for Inferring Investor Preferences](https://web.stanford.edu/~wfsharpe/art/qpaper/qpaper.html)
-- [Analysis of Investment Returns as Markov Chain Random Walk](https://onlinelibrary.wiley.com/doi/10.1155/2024/3966566)
-
-### Unpublished AMS abstracts
-- [Can We See the Next Recession Coming? Deep Learning in Economic Forecasting.](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41055)
-- [FOREX Prediction Using Deep Learning](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/43462)
-- [Deep Learning Techniques for Equity Portfolio Construction, Optimization, and Performance Analysis](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/45238)
-- [Wavelet Based Reinforcement Learning for Pairs Trading Across Multiple Asset Classes](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/45119)
 
 ## GitHub repositories
 - [thequantpy](https://github.com/thequantpy)
