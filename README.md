@@ -1,9 +1,9 @@
-# Financial Analysis and Automated Trading
+# Rob's Financial Mathematics and Automated Trading Resource Page
 
 Hi everyone, this is Rob.
-I'm a senior systems developer, and I'm also working on a second master's degree at Tufts University in mathematics, after completing one in computer science.
+I'm a full-time senior systems developer, and I'm also working on a second master's degree at Tufts University in mathematics, after completing one in computer science.
 This will be my third degree from Tufts overall, as I also completed my undergraduate degree in mathematics here.
-I have been auditing graduate courses in economics and philosophy (spring 2025).
+I am working on an open-source quantitative trading system called [CandleSage](https://github.com/rcosta-git/CandleSage/tree/main).
 
 As an undergraduate, I was focused on pure mathematics, also spending several years in Tufts' Russian department with the intention of studying the works of Russian mathematicians in analysis and topology, and in 2015 I published a paper in number theory on *p*-adic dynamical systems, [A *p*-adic Perron-Frobenius Theorem](https://arxiv.org/abs/1509.01702).
 I also enjoyed set theory, type theory, category theory, and logic.
@@ -54,7 +54,7 @@ This is primarily research I encountered at [JMM 2025](https://jointmathematicsm
 - For a modern guide to technical analysis, take a look at John Murphy's [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf) (1999).
 - For an overview of the current state of macroeconomics, see Brian Snowdon and Howard Vane's [Modern Macroeconomics](https://www.ricardopanza.com.ar/files/macro2/Modern_Macroeconomics_Snowdon___Vane_05.pdf) (2005) and Sanjay Chugh's [Modern Macroeconomics](https://nibmehub.com/opac-service/pdf/read/Modern%20Macroeconomics.pdf) (2015).
 
-## Books on trading
+## Books on trading psychology and methodology
 - Some good books on trading include *High Probability Trading*, *Option Volatility and Pricing*, *Options Trading: The Bible*, *Get Rich With Options*, and *Mind over Markets*.
 - For more historical perspectives on trading, I also enjoyed reading the *Market Wizards* books, *When Genius Failed*, and Michael Lewis's writings from the last few decades such as *Liar's Poker*.
 - Also for more general tips, *The Money Game*, *Mastering the Trade*, and *Trading in the Zone*, or memoirs like *How I Made $2,000,000 in the Stock Market* from Nicolas Darvas and *Reminiscences of a Stock Operator* about Jesse Livermore.
@@ -136,3 +136,5 @@ Futures, like options, are also a type of derivative, whose price is based on an
 - [Rust in Finance: Building a Scalable High-Frequency Trading Platform](https://medium.com/rustaceans/rust-in-finance-building-a-scalable-high-frequency-trading-platform-from-scratch-339cdf9d6f08)
 - [An Algo Trading Strategy That Made 8,371% – A Python Case Study](https://levelup.gitconnected.com/an-algo-trading-strategy-which-made-8-371-a-python-case-study-58ed12a492dc)
 - [An In-Depth Guide on Mathematically Improving Your Trading Strategy](https://medium.datadriveninvestor.com/an-in-depth-guide-on-mathematically-improving-your-trading-strategy-fa8ac2a0e5da)
+
+© 2025 Robert Costa. All rights reserved.
