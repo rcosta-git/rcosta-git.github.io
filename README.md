@@ -15,13 +15,27 @@ This site below contains a list of resources I've been compiling on financial an
 ## Quantitative Analysis Literature References
 A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but the "word on the street" (Wall Street) is that Hidden Markov Models are quite useful in modeling finance trends. I am hoping to work on making some finance models more accessible, including strategies for online and semisupervised learning algorithms, while keeping some of the code I develop still a secret between my collaborators. Here is some published literature on portfolio analysis and hedging, and see the below section for more recent research.
 
-- For a modern guide to technical analysis, take a look at John Murphy's [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf) (1999).
-- Darrell Duffie wrote a widely referenced [2001 book on Dynamic Asset Pricing Theory](https://github.com/auscott/books/blob/main/Darrell%20Duffie%20-%20Dynamic%20Asset%20Pricing%20Theory%2C%20Third%20Edition.-Princeton%20University%20Press%20(2001).pdf), as well as a [2002 survey of Intertemporal Asset Pricing Theory](https://web.stanford.edu/~duffie/survey.pdf).
-- Tufts President Sunil Kumar, who told me about the above book at a February 2025 Hackathon, has a background in probability theory and published a 2006 paper on [Multidimensional portfolio optimization with proportional transaction costs](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9965.2006.00273.x).
+- [Portfolio Selection: Efficient Diversification of Investments (Markowitz, 1952)](https://www.math.hkust.edu.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf)
+- [Technical Analysis of the Financial Markets (Murphy, 1999)](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf)
+- [Dynamic Asset Pricing Theory (Duffie, 2001)](https://github.com/auscott/books/blob/main/Darrell%20Duffie%20-%20Dynamic%20Asset%20Pricing%20Theory%2C%20Third%20Edition.-Princeton%20University%20Press%20(2001).pdf)
+- [Quantitative Trading Systems (Bandy, 2007)](https://www.amazon.com/Quantitative-Trading-Systems-Howard-Bandy/dp/0979183839/)
+- [Quantitative Trading: How to Build Your Own Algorithmic Trading Business (Chan, 2008)](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064/)
+- [Algorithmic Trading: A Practitioner's Guide (Bacidore, 2020)](https://www.amazon.com/Algorithmic-Trading-Practitioners-Jeffrey-Bacidore/dp/0578715236/)
+- [Machine Learning for Asset Managers (Lopez de Prado, 2020)](https://www.amazon.com/Machine-Learning-Finance-Theory-Practice/dp/3030410676/)
+- [Machine Learning for Algorithmic Trading (Kakushadze & Liew, 2020)](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715/)
+- [Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage (Tomasini & Jaekle, 2021)](https://www.amazon.com/Quantitative-Portfolio-Management-Statistical-Arbitrage/dp/1119821320/)
 
-## Recent Research
+## Research
 
-This is primarily research I encountered at [JMM 2025](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program.html).
+Tufts President Sunil Kumar, who told me about his past research when I encountered him at a February 2025 Hackathon, has a background in probability theory and published a 2006 paper on [Multidimensional portfolio optimization with proportional transaction costs](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9965.2006.00273.x). Here is a list of some top academic journals:
+- [Mathematical Finance - Wiley Online Library](https://onlinelibrary.wiley.com/journal/14679965)
+- [SIAM Journal on Financial Mathematics](https://epubs.siam.org/journal/sjfmbj)
+- [Journal of Mathematical Finance - SCIRP](https://www.scirp.org/journal/jmf/)
+- [Mathematics and Financial Economics - Springer](https://link.springer.com/journal/11579)
+- [Journal of Asset Management - Taylor & Francis](https://www.tandfonline.com/toc/ramf20/current)
+- [Frontiers of Mathematical Finance - AIMS](https://www.aimsciences.org/fmf)
+
+The below lists are primarily research I encountered at [JMM 2025](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program.html).
 
 ### Articles
 - [Predicting stock market index using LSTM](https://www.sciencedirect.com/science/article/pii/S2666827022000378)
@@ -52,6 +66,7 @@ This is primarily research I encountered at [JMM 2025](https://jointmathematicsm
 - William Sharpe was one of the originators of the capital asset pricing model (CAPM) in his [Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1964.tb02865.x) (1964), despite it originally being rejected for publication. He developed the Sharpe ratio for evaluating returns on risk in [Mutual Fund Performance](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/sharpe__mutual_fund_performance.pdf) (1966).
 - The science of bond analysis was largely founded by Martin Leibowitz and Sidney Homer's [Inside the Yield Book](https://archive.org/details/insideyieldbookn00home) (1972).
 - For a modern guide to technical analysis, take a look at John Murphy's [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf) (1999).
+- Darrell Duffie wrote a widely referenced [2001 book on Dynamic Asset Pricing Theory](https://github.com/auscott/books/blob/main/Darrell%20Duffie%20-%20Dynamic%20Asset%20Pricing%20Theory%2C%20Third%20Edition.-Princeton%20University%20Press%20(2001).pdf), as well as a [2002 survey of Intertemporal Asset Pricing Theory](https://web.stanford.edu/~duffie/survey.pdf).
 - For an overview of the current state of macroeconomics, see Brian Snowdon and Howard Vane's [Modern Macroeconomics](https://www.ricardopanza.com.ar/files/macro2/Modern_Macroeconomics_Snowdon___Vane_05.pdf) (2005) and Sanjay Chugh's [Modern Macroeconomics](https://nibmehub.com/opac-service/pdf/read/Modern%20Macroeconomics.pdf) (2015).
 
 ## Books on trading psychology and methodology
