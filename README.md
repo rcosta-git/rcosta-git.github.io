@@ -10,7 +10,7 @@ I also enjoyed set theory, type theory, category theory, and logic.
 
 I am now focused on computer science&ndash;implementating algorithms for efficient systems operations and machine learning&ndash;and applied mathematics&ndash;the foundations of machine learning and financial analysis.
 This site below contains a list of resources I've been compiling on financial analysis, quantitative methods, and automated trading.
-[Let me know](mailto:robert_j.costa@tufts.edu) if you're interested in collaborating.
+[Let me know](mailto:robert_j.costa@tufts.edu) if you're interested in collaborating. Investors contact [Costa Capital Technologies](mailto:owner@CostaCapital.org).
 
 ## Quantitative Analysis Literature References
 A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but the "word on the street" (Wall Street) is that Hidden Markov Models are quite useful in modeling finance trends. I am hoping to work on making some finance models more accessible, including strategies for online and semisupervised learning algorithms, while keeping some of the code I develop still a secret between my collaborators. Here is some published literature on portfolio analysis and hedging, and see the below section for more recent research.
