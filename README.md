@@ -18,16 +18,15 @@ A lot of what happens at the hedge funds doing quantitative analysis is [quite s
 - [Portfolio Selection: Efficient Diversification of Investments (Markowitz, 1952)](https://www.math.hkust.edu.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf)
 - [Technical Analysis of the Financial Markets (Murphy, 1999)](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf)
 - [Dynamic Asset Pricing Theory (Duffie, 2001)](https://github.com/auscott/books/blob/main/Darrell%20Duffie%20-%20Dynamic%20Asset%20Pricing%20Theory%2C%20Third%20Edition.-Princeton%20University%20Press%20(2001).pdf)
-- [Quantitative Trading Systems (Bandy, 2007)](https://www.amazon.com/Quantitative-Trading-Systems-Howard-Bandy/dp/0979183839/)
-- [Quantitative Trading: How to Build Your Own Algorithmic Trading Business (Chan, 2008)](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064/)
-- [Algorithmic Trading: A Practitioner's Guide (Bacidore, 2020)](https://www.amazon.com/Algorithmic-Trading-Practitioners-Jeffrey-Bacidore/dp/0578715236/)
-- [Machine Learning for Asset Managers (Lopez de Prado, 2020)](https://www.amazon.com/Machine-Learning-Finance-Theory-Practice/dp/3030410676/)
-- [Machine Learning for Algorithmic Trading (Kakushadze & Liew, 2020)](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715/)
-- [Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage (Tomasini & Jaekle, 2021)](https://www.amazon.com/Quantitative-Portfolio-Management-Statistical-Arbitrage/dp/1119821320/)
+- [Multidimensional portfolio optimization with proportional transaction costs (Muthuraman & Kumar, 2006)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9965.2006.00273.x)
+- [The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response (Budish, Cramton, & Shim, 2015)](https://academic.oup.com/qje/article-pdf/130/4/1547/30637414/qjv027.pdf)
+- [On the Market-Neutrality of Optimal Pairs-Trading Strategies (Angoshtari, 2016)](https://arxiv.org/pdf/1608.08268)
+- [Formal verification of trading in financial markets (Sarswat & Singh, 2019)](https://arxiv.org/pdf/1907.07885)
+- [C++ Design Patterns for Low-Latency Applications Including High-Frequency Trading (Bilokon & Gunduz, 2023)](https://arxiv.org/pdf/2309.04259)
 
-## Research
+## Recent Research
 
-Tufts President Sunil Kumar, who told me about his past research when I encountered him at a February 2025 Hackathon, has a background in probability theory and published a 2006 paper on [Multidimensional portfolio optimization with proportional transaction costs](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9965.2006.00273.x). Here is a list of some top academic journals:
+Here is a list of some top academic journals:
 - [Mathematical Finance - Wiley Online Library](https://onlinelibrary.wiley.com/journal/14679965)
 - [SIAM Journal on Financial Mathematics](https://epubs.siam.org/journal/sjfmbj)
 - [Journal of Mathematical Finance - SCIRP](https://www.scirp.org/journal/jmf/)
@@ -35,14 +34,15 @@ Tufts President Sunil Kumar, who told me about his past research when I encounte
 - [Journal of Asset Management - Taylor & Francis](https://www.tandfonline.com/toc/ramf20/current)
 - [Frontiers of Mathematical Finance - AIMS](https://www.aimsciences.org/fmf)
 
-The below lists are primarily research I encountered at [JMM 2025](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program.html).
-
 ### Articles
 - [Predicting stock market index using LSTM](https://www.sciencedirect.com/science/article/pii/S2666827022000378)
 - [Predicting NEPSE index price using deep learning models](https://www.sciencedirect.com/science/article/pii/S2666827022000706)
 - [Hedging via Perpetual Derivatives: Trinomial Option Pricing and Implied Parameter Surface Analysis](https://arxiv.org/abs/2410.04748)
 - [The Distribution Builder: A Tool for Inferring Investor Preferences](https://web.stanford.edu/~wfsharpe/art/qpaper/qpaper.html)
 - [Analysis of Investment Returns as Markov Chain Random Walk](https://onlinelibrary.wiley.com/doi/10.1155/2024/3966566)
+- [Semi-static conditions in low-latency C++ for high frequency trading: Better than branch prediction hints](https://www.sciencedirect.com/science/article/pii/S0743731524001643)
+- [Parallel computing in finance for estimating risk-neutral densities through option prices](https://www.sciencedirect.com/science/article/pii/S074373152200243X)
+- [A hidden Markov model for statistical arbitrage in international crude oil futures markets](https://arxiv.org/pdf/2309.00875)
 
 ### Unpublished AMS abstracts
 - [Can We See the Next Recession Coming? Deep Learning in Economic Forecasting.](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41055)
