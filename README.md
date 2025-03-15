@@ -1,4 +1,4 @@
-# Rob's Financial Mathematics and Automated Trading Resource Page
+# Rob Costa's Financial Mathematics and Automated Trading Resource Page
 
 Hi everyone, this is Rob.
 I'm a full-time senior systems developer, and I'm also working on a second master's degree at Tufts University in mathematics, after completing one in computer science.
@@ -11,6 +11,14 @@ I also enjoyed set theory, type theory, category theory, and logic.
 I am now focused on computer science&ndash;implementating algorithms for efficient systems operations and machine learning&ndash;and applied mathematics&ndash;the foundations of machine learning and financial analysis.
 This site below contains a list of resources I've been compiling on financial analysis, quantitative methods, and automated trading.
 [Let me know](mailto:robert_j.costa@tufts.edu) if you're interested in collaborating. Investors contact [Costa Capital Technologies](mailto:owner@CostaCapital.org).
+
+The first and second images below are from the 2025 Joint Mathematics Meetings, where I received a lot of inspiration to pursue my quantitative analysis of the stock market. The first picture is with [Yann LeCun](https://ai.meta.com/people/yann-lecun/), the father of deep learning, and the second is with [Joan Ferrini-Mundy](https://umaine.edu/president/), President of the University of Maine (where I grew up). The third image is with the former president of Costa Rica, [Carlos Alvarado Quesada](https://fletcher.tufts.edu/people/faculty/carlos-alvarado-quesada), at a recent Tufts University event on democracy.
+
+![Rob with Yann LeCun at the 2025 Joint Mathematics Meetings](jmm_rob_Yann_LeCun.jpg)
+
+![Rob with Joan Ferrini-Mundy at the 2025 Joint Mathematics Meetings](jmm_rob_Joan_Ferrini-Mundy.jpg)
+
+![Rob with Carlos Alvarado Quesada at Tufts University](tufts_rob_Carlos_Quesada.jpg)
 
 ## Quantitative Analysis Literature References
 A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but the "word on the street" (Wall Street) is that Hidden Markov Models are quite useful in modeling finance trends. I am hoping to work on making some finance models more accessible, including strategies for online and semisupervised learning algorithms, while keeping some of the code I develop still a secret between my collaborators. Here is some published literature on portfolio analysis and hedging, and see the below section for more recent research.
