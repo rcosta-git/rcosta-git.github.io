@@ -1,27 +1,8 @@
 # Rob Costa's Financial Mathematics and Automated Trading Resource Page
 
-Hi everyone, this is Rob.
-I'm a full-time senior systems developer, and I'm also working on a second master's degree at Tufts University in mathematics, after completing one in computer science.
-This will be my third degree from Tufts overall, as I also completed my undergraduate degree in mathematics here.
-I am working on an open-source quantitative trading system called [CandleSage](https://github.com/rcosta-git/CandleSage/tree/main).
+Hi everyone, this is Rob's page on quantitative finance and algorithmic trading. A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but I am hoping to work on making some finance models more accessible, while keeping some of the code I develop still private between me and my collaborators. Below is some published literature on portfolio analysis and hedging, lists of research journals, classic economics texts, options and futures video tutorials, and more. Investors should contact [Costa Capital Technologies](mailto:owner@CostaCapital.org), which I'm starting up as a nonprofit to support research and development in quantitative analysis of the stock market, structured with for-profit subsidiaries, following the examples of companies like Patagonia and OpenAI. You can read more [about me](#about-me) below, where I also added some photos with people who inspired me.
 
-As an undergraduate, I was focused on pure mathematics, also spending several years in Tufts' Russian department with the intention of studying the works of Russian mathematicians in analysis and topology, and in 2015 I published a paper in number theory on *p*-adic dynamical systems, [A *p*-adic Perron-Frobenius Theorem](https://arxiv.org/abs/1509.01702).
-I also enjoyed set theory, type theory, category theory, and logic.
-
-I am now focused on computer science&ndash;implementating algorithms for efficient systems operations and machine learning&ndash;and applied mathematics&ndash;the foundations of machine learning and financial analysis.
-This site below contains a list of resources I've been compiling on financial analysis, quantitative methods, and automated trading.
-[Let me know](mailto:robert_j.costa@tufts.edu) if you're interested in collaborating. Investors contact [Costa Capital Technologies](mailto:owner@CostaCapital.org).
-
-The first and second images below are from the 2025 Joint Mathematics Meetings, where I received a lot of inspiration to pursue my quantitative analysis of the stock market. The first picture is with [Yann LeCun](https://ai.meta.com/people/yann-lecun/), the father of deep learning, and the second is with [Joan Ferrini-Mundy](https://umaine.edu/president/), President of the University of Maine (where I grew up). The third image is with the former president of Costa Rica, [Carlos Alvarado Quesada](https://fletcher.tufts.edu/people/faculty/carlos-alvarado-quesada), at a recent Tufts University event on democracy.
-
-![Rob with Yann LeCun at the 2025 Joint Mathematics Meetings](jmm_rob_Yann_LeCun.jpg)
-
-![Rob with Joan Ferrini-Mundy at the 2025 Joint Mathematics Meetings](jmm_rob_Joan_Ferrini-Mundy.jpg)
-
-![Rob with Carlos Alvarado Quesada at Tufts University](tufts_rob_Carlos_Quesada.jpg)
-
-## Quantitative Analysis Literature References
-A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but the "word on the street" (Wall Street) is that Hidden Markov Models are quite useful in modeling finance trends. I am hoping to work on making some finance models more accessible, including strategies for online and semisupervised learning algorithms, while keeping some of the code I develop still a secret between my collaborators. Here is some published literature on portfolio analysis and hedging, and see the below section for more recent research.
+## Landmark Publications in Quantitative Analysis
 
 - [Portfolio Selection: Efficient Diversification of Investments (Markowitz, 1952)](https://www.math.hkust.edu.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf)
 - [Technical Analysis of the Financial Markets (Murphy, 1999)](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf)
@@ -163,5 +144,51 @@ Futures, like options, are also a type of derivative, whose price is based on an
 - [Rust in Finance: Building a Scalable High-Frequency Trading Platform](https://medium.com/rustaceans/rust-in-finance-building-a-scalable-high-frequency-trading-platform-from-scratch-339cdf9d6f08)
 - [An Algo Trading Strategy That Made 8,371% – A Python Case Study](https://levelup.gitconnected.com/an-algo-trading-strategy-which-made-8-371-a-python-case-study-58ed12a492dc)
 - [An In-Depth Guide on Mathematically Improving Your Trading Strategy](https://medium.datadriveninvestor.com/an-in-depth-guide-on-mathematically-improving-your-trading-strategy-fa8ac2a0e5da)
+
+## About Me
+
+Hi everyone, this is Rob.
+I'm a senior systems developer at [InterSystems Corporation](https://www.intersystems.com/), where I have worked on InterSystems IntelliCare™ electronic health record and InterSystems IRIS® data platform that evolved out of [M(UMPS) database programming](https://en.wikipedia.org/wiki/MUMPS). I'm starting a PhD at [Tufts University](https://www.tufts.edu/) in engineering, after completing a master's in computer science there.
+This will be my third degree from Tufts overall, as I also completed my undergraduate degree in mathematics here.
+I am working on an open-source quantitative trading system called [CandleSage](https://github.com/rcosta-git/CandleSage/tree/main), using [Hidden Markov Models](https://en.wikipedia.org/wiki/Hidden_Markov_model), [Long Short-Term Memory](https://en.wikipedia.org/wiki/Long_short-term_memory), [Prophet Models](https://facebook.github.io/prophet/), and [Transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)).
+
+I grew up in Northern Maine, and in 2009 I attended the [Research Science Institute](https://www.cee.org/programs/research-science-institute) (RSI) at MIT, where I used [modular forms](https://en.wikipedia.org/wiki/Modular_form) to study the [partition function](https://en.wikipedia.org/wiki/Partition_function_(number_theory)) in number theory. I graduated from the [Maine School of Science and Mathematics](https://www.mssm.org/), winning the 2010 [Siemens Award for Advanced Placement for the highest scores in Maine](https://www.bangordailynews.com/2011/02/27/news/magnet-school-seniors-state-winners-of-siemens-awards/), and interned at Maine's [Jackson Laboratory](https://www.jax.org/) in 2011, where I was first exposed to statistical computing, in bioinformatics.
+As an undergraduate student at Tufts University, I was focused on pure mathematics, studying abroad in Moscow in the summer of 2014, and in 2015 I published a paper in number theory on *p*-adic dynamical systems, [A *p*-adic Perron-Frobenius Theorem](https://arxiv.org/abs/1509.01702).
+I also enjoyed set theory, type theory, category theory, and logic.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/jmm_rob_Yann_LeCun.jpg" alt="Rob with Yann LeCun" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with <a href="https://ai.meta.com/people/yann-lecun/">Yann LeCun</a>, the "father of deep learning", at <a href="https://jointmathematicsmeetings.org/jmm">JMM 2025</a>.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/jmm_rob_Joan_Ferrini-Mundy.jpg" alt="Rob with Joan Ferrini-Mundy" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with <a href="https://umaine.edu/president/">Joan Ferrini-Mundy</a>, President of the University of Maine, at <a href="https://jointmathematicsmeetings.org/jmm">JMM 2025</a>.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/tufts_rob_Carlos_Quesada.jpg" alt="Rob with Carlos Alvarado Quesada" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with <a href="https://en.wikipedia.org/wiki/Carlos_Alvarado_Quesada">Carlos Alvarado Quesada</a>, former president of Costa Rica, at Tufts University.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/tufts_rob_Bill_Cummings.jpg" alt="Rob with Bill Cummings" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with donor and philanthropist <a href="https://en.wikipedia.org/wiki/Bill_Cummings_(philanthropist)">Bill Cummings</a> at Tufts University.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/tufts_rob_Loring_Tu.jpg" alt="Rob with Loring Tu" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with his mathematics advisor, professor <a href="https://en.wikipedia.org/wiki/Loring_W._Tu">Loring Tu</a> at Tufts University.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/tufts_rob_Nic_Shefff.jpg" alt="Rob with Nic Sheff" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with writer and addiction survivor <a href="https://en.wikipedia.org/wiki/Nic_Sheff">Nic Sheff</a> at Tufts University.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/cee_rob_Pete_Gayle_Wilson.jpg" alt="Rob at CEE event" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with <a href="https://en.wikipedia.org/wiki/Pete_Wilson">Pete Wilson</a> and <a href="https://en.wikipedia.org/wiki/Gayle_Wilson">Gayle Wilson</a> at a Center for Excellence in Education reunion.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/cee_rob_fed.jpg" alt="Rob at Federal Reserve event" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob and other research students at a Federal Reserve event after meeting <a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell</a>.</small></p>
+  </div>
+</div>
 
 © 2025 Robert Costa. All rights reserved.
