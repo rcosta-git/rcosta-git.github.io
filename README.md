@@ -156,6 +156,8 @@ I grew up in Northern Maine, and in 2009 I attended the [Research Science Instit
 As an undergraduate student at Tufts University, I was focused on pure mathematics, studying abroad in Moscow in the summer of 2014, and in 2015 I published a paper in number theory on *p*-adic dynamical systems, [A *p*-adic Perron-Frobenius Theorem](https://arxiv.org/abs/1509.01702).
 I also enjoyed set theory, type theory, category theory, and logic.
 
+Below is a series of images with people who have inspired me. While I could write extensively about each of them, I'll highlight the last two in particular. I was invited, along with other [Research Science Institute](https://www.cee.org/research-science-institute) alumni, to meet [Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) at the [Federal Reserve](https://www.federalreserve.gov/). It was an honor for me to shake his hand and ask his thoughts on a quotation from [Milton Friedman](https://www.nobelprize.org/prizes/economic-sciences/1976/friedman/biographical/), whom he had been discussing with us. Our conversation deepened my interest in monetary policy, particularly the role of monetary aggregates in economic stability. Inspired by his insights, I began exploring financial markets more seriously, studying both historical perspectives and modern quantitative approaches. I also had the opportunity to take a photo with [Dr. Talithia D. Williams](https://www.talithiawilliams.com/), a statistician, educator, and the first African-American woman to achieve tenure at [Harvey Mudd College](https://www.hmc.edu/). When I attended her talk at Tufts, she spoke about using statistics not just as a tool for analysis but as a means to understand inequality and work toward fairness. Her emphasis on the power of data to uncover systemic disparities reinforced my belief in applying mathematics to real-world challenges. Beyond inspiring me to deepen my knowledge of statistics, she has shaped the way I think about leveraging quantitative methods for equity, education, and the public good.
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/jmm_rob_Yann_LeCun.jpg" alt="Rob with Yann LeCun" style="width: 100%; border-radius: 5px;">
@@ -187,7 +189,11 @@ I also enjoyed set theory, type theory, category theory, and logic.
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/cee_rob_fed.jpg" alt="Rob at Federal Reserve event" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob and other research students at a Federal Reserve event after meeting <a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell</a>.</small></p>
+    <p><small>Rob and other researchers at a Federal Reserve event after meeting <a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell</a>.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/tufts_rob_Talithia_Williams.jpeg" alt="Rob with Talithia Williams" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with statistician <a href="https://en.wikipedia.org/wiki/Talithia_Williams">Talithia Williams</a> at Tufts University.</small></p>
   </div>
 </div>
 
