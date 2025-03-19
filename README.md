@@ -189,11 +189,11 @@ Below is a series of images with people who have inspired me. While I could writ
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Mick_Mulvaney.jpg" alt="Rob with Mick Mulvaney" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with former White House Chief of Staff <a href="https://en.wikipedia.org/wiki/Mick_Mulvaney">Mick Mulvaney</a>.</small></p>
+    <p><small>Rob with Tisch College administrators meeting <a href="https://en.wikipedia.org/wiki/Mick_Mulvaney">Mick Mulvaney</a> at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Bob_Frankston.jpeg" alt="Rob with Bob Frankston" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with software pioneer and VisiCalc co-creator <a href="https://en.wikipedia.org/wiki/Bob_Frankston">Bob Frankston</a>.</small></p>
+    <p><small>Rob with software pioneer and VisiCalc co-creator <a href="https://en.wikipedia.org/wiki/Bob_Frankston">Bob Frankston</a> at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/cee_rob_fed.jpg" alt="Rob at Federal Reserve event" style="width: 100%; border-radius: 5px;">
@@ -201,7 +201,7 @@ Below is a series of images with people who have inspired me. While I could writ
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Talithia_Williams.jpeg" alt="Rob with Talithia Williams" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with statistician <a href="https://en.wikipedia.org/wiki/Talithia_Williams">Talithia Williams</a> at Tufts University.</small></p>
+    <p><small>Rob with statistician <a href="https://en.wikipedia.org/wiki/Talithia_Williams">Talithia Williams</a> after her talk at Tufts University.</small></p>
   </div>
 </div>
 
