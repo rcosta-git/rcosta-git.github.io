@@ -181,15 +181,23 @@ Below is a series of images with people who have inspired me. While I could writ
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Nic_Shefff.jpg" alt="Rob with Nic Sheff" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with writer and addiction survivor <a href="https://en.wikipedia.org/wiki/Nic_Sheff">Nic Sheff</a> at Tufts University.</small></p>
+    <p><small>Rob with writer and addiction survivor "Beautiful Boy" <a href="https://en.wikipedia.org/wiki/Nic_Sheff">Nic Sheff</a> at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/cee_rob_Pete_Gayle_Wilson.jpg" alt="Rob at CEE event" style="width: 100%; border-radius: 5px;">
     <p><small>Rob with <a href="https://en.wikipedia.org/wiki/Pete_Wilson">Pete Wilson</a> and <a href="https://en.wikipedia.org/wiki/Gayle_Wilson">Gayle Wilson</a> at a Center for Excellence in Education reunion.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/tufts_rob_Mick_Mulvaney.jpg" alt="Rob with Mick Mulvaney" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with former White House Chief of Staff <a href="https://en.wikipedia.org/wiki/Mick_Mulvaney">Mick Mulvaney</a>.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/tufts_rob_Bob_Frankston.jpeg" alt="Rob with Bob Frankston" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with software pioneer and VisiCalc co-creator <a href="https://en.wikipedia.org/wiki/Bob_Frankston">Bob Frankston</a>.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
     <img src="images/cee_rob_fed.jpg" alt="Rob at Federal Reserve event" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob and other researchers at a Federal Reserve event after meeting <a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell</a>.</small></p>
+    <p><small>Rob and other students at a Federal Reserve event after meeting <a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell</a>.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Talithia_Williams.jpeg" alt="Rob with Talithia Williams" style="width: 100%; border-radius: 5px;">
