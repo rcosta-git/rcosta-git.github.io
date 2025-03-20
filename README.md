@@ -161,11 +161,11 @@ Below is a series of images with people who have inspired me. While I could writ
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/jmm_rob_Yann_LeCun.jpg" alt="Rob with Yann LeCun" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with <a href="https://ai.meta.com/people/yann-lecun/">Yann LeCun</a>, the "father of deep learning", at <a href="https://jointmathematicsmeetings.org/jmm">JMM 2025</a>.</small></p>
+    <p><small>Rob with <a href="https://ai.meta.com/people/yann-lecun/">Yann LeCun</a>, the "father of deep learning", and VP, Meta Chief AI Scientist.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/jmm_rob_Joan_Ferrini-Mundy.jpg" alt="Rob with Joan Ferrini-Mundy" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with <a href="https://umaine.edu/president/">Joan Ferrini-Mundy</a>, President of the University of Maine, at <a href="https://jointmathematicsmeetings.org/jmm">JMM 2025</a>.</small></p>
+    <p><small>Rob with <a href="https://umaine.edu/president/">Joan Ferrini-Mundy</a>, President of the University of Maine and math educator.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Carlos_Quesada.jpg" alt="Rob with Carlos Alvarado Quesada" style="width: 100%; border-radius: 5px;">
@@ -173,15 +173,15 @@ Below is a series of images with people who have inspired me. While I could writ
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Bill_Cummings.jpg" alt="Rob with Bill Cummings" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with donor and philanthropist <a href="https://en.wikipedia.org/wiki/Bill_Cummings_(philanthropist)">Bill Cummings</a> at Tufts University.</small></p>
+    <p><small>Rob with developer, donor and philanthropist <a href="https://en.wikipedia.org/wiki/Bill_Cummings_(philanthropist)">Bill Cummings</a> at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Loring_Tu.jpg" alt="Rob with Loring Tu" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with his mathematics advisor, professor <a href="https://en.wikipedia.org/wiki/Loring_W._Tu">Loring Tu</a> at Tufts University.</small></p>
+    <p><small>Rob with his mathematics advisor, professor and topologist <a href="https://en.wikipedia.org/wiki/Loring_W._Tu">Loring Tu</a> at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Nic_Shefff.jpg" alt="Rob with Nic Sheff" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with writer and addiction survivor "Beautiful Boy" <a href="https://en.wikipedia.org/wiki/Nic_Sheff">Nic Sheff</a> at Tufts University.</small></p>
+    <p><small>Rob with writer and drug addiction survivor "Beautiful Boy" <a href="https://en.wikipedia.org/wiki/Nic_Sheff">Nic Sheff</a> at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/cee_rob_Pete_Gayle_Wilson.jpg" alt="Rob at CEE event" style="width: 100%; border-radius: 5px;">
@@ -193,15 +193,19 @@ Below is a series of images with people who have inspired me. While I could writ
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Bob_Frankston.jpeg" alt="Rob with Bob Frankston" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with software pioneer and VisiCalc co-creator <a href="https://en.wikipedia.org/wiki/Bob_Frankston">Bob Frankston</a> at Tufts University.</small></p>
+    <p><small>Rob with the VisiCalc spreadsheet co-creator <a href="https://en.wikipedia.org/wiki/Bob_Frankston">Bob Frankston</a> at Tufts University.</small></p>
+  </div>
+  <div style="max-width: 30%; min-width: 250px;">
+    <img src="images/tufts_rob_Reggie_Brothers.jpg" alt="Rob with Reggie Brothers" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob speaking with DHS Under Secretary <a href="https://www.dhs.gov/archive/person/dr-reginald-brothers">Reggie Brothers</a> at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/cee_rob_fed.jpg" alt="Rob at Federal Reserve event" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob and other students at a Federal Reserve event after meeting <a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell</a>.</small></p>
+    <p><small>Rob and other students at a Federal Reserve event after meeting chair <a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell</a>.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Talithia_Williams.jpeg" alt="Rob with Talithia Williams" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with statistician <a href="https://en.wikipedia.org/wiki/Talithia_Williams">Talithia Williams</a> after her talk at Tufts University.</small></p>
+    <p><small>Rob with statistician and advocate <a href="https://en.wikipedia.org/wiki/Talithia_Williams">Talithia Williams</a> after her talk at Tufts University.</small></p>
   </div>
 </div>
 
