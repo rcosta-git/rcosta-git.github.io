@@ -177,7 +177,7 @@ Below is a series of images with people who have inspired me. While I could writ
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Bill_Cummings.jpg" alt="Rob with Bill Cummings" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with developer, donor and philanthropist <a href="https://en.wikipedia.org/wiki/Bill_Cummings_(philanthropist)">Bill Cummings</a> at Tufts University.</small></p>
+    <p><small>Rob with donor and philanthropist <a href="https://en.wikipedia.org/wiki/Bill_Cummings_(philanthropist)">Bill Cummings</a> speaking at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Loring_Tu.jpg" alt="Rob with Loring Tu" style="width: 100%; border-radius: 5px;">
@@ -205,7 +205,7 @@ Below is a series of images with people who have inspired me. While I could writ
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/cee_rob_fed.jpg" alt="Rob at Federal Reserve event" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob and other students at a Federal Reserve event after meeting chair <a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell</a>.</small></p>
+    <p><small>Rob and other students at the Federal Reserve after meeting chair <a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell</a>.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Talithia_Williams.jpeg" alt="Rob with Talithia Williams" style="width: 100%; border-radius: 5px;">
