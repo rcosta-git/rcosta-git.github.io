@@ -7,11 +7,6 @@ Hi everyone, this is Rob's page on quantitative finance and algorithmic trading.
 - [Portfolio Selection: Efficient Diversification of Investments (Markowitz, 1952)](https://www.math.hkust.edu.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf)
 - [Technical Analysis of the Financial Markets (Murphy, 1999)](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf)
 - [Dynamic Asset Pricing Theory (Duffie, 2001)](https://github.com/auscott/books/blob/main/Darrell%20Duffie%20-%20Dynamic%20Asset%20Pricing%20Theory%2C%20Third%20Edition.-Princeton%20University%20Press%20(2001).pdf)
-- [Multidimensional portfolio optimization with proportional transaction costs (Muthuraman & Kumar, 2006)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9965.2006.00273.x)
-- [The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response (Budish, Cramton, & Shim, 2015)](https://academic.oup.com/qje/article-pdf/130/4/1547/30637414/qjv027.pdf)
-- [On the Market-Neutrality of Optimal Pairs-Trading Strategies (Angoshtari, 2016)](https://arxiv.org/pdf/1608.08268)
-- [Formal verification of trading in financial markets (Sarswat & Singh, 2019)](https://arxiv.org/pdf/1907.07885)
-- [C++ Design Patterns for Low-Latency Applications Including High-Frequency Trading (Bilokon & Gunduz, 2023)](https://arxiv.org/pdf/2309.04259)
 
 ## Recent Research
 
@@ -23,7 +18,10 @@ Here is a list of some top academic journals:
 - [Journal of Asset Management - Taylor & Francis](https://www.tandfonline.com/toc/ramf20/current)
 - [Frontiers of Mathematical Finance - AIMS](https://www.aimsciences.org/fmf)
 
-### Articles
+### Articles on Machine Learning, Mathematical Finance, and High-Frequency Trading
+Here are some recent articles I found, some of which are from researchers I met presenting on their work at the 2025 Joint Math Meetings.
+An older but relevant article that Tufts University president Kumar told me he wrote is [Multidimensional portfolio optimization with proportional transaction costs (Muthuraman & Kumar, 2006)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9965.2006.00273.x).
+
 - [Predicting stock market index using LSTM](https://www.sciencedirect.com/science/article/pii/S2666827022000378)
 - [Predicting NEPSE index price using deep learning models](https://www.sciencedirect.com/science/article/pii/S2666827022000706)
 - [Hedging via Perpetual Derivatives: Trinomial Option Pricing and Implied Parameter Surface Analysis](https://arxiv.org/abs/2410.04748)
@@ -32,15 +30,21 @@ Here is a list of some top academic journals:
 - [Semi-static conditions in low-latency C++ for high frequency trading: Better than branch prediction hints](https://www.sciencedirect.com/science/article/pii/S0743731524001643)
 - [Parallel computing in finance for estimating risk-neutral densities through option prices](https://www.sciencedirect.com/science/article/pii/S074373152200243X)
 - [A hidden Markov model for statistical arbitrage in international crude oil futures markets](https://arxiv.org/pdf/2309.00875)
+- [The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response](https://academic.oup.com/qje/article-pdf/130/4/1547/30637414/qjv027.pdf)
+- [On the Market-Neutrality of Optimal Pairs-Trading Strategies](https://arxiv.org/pdf/1608.08268)
+- [Formal verification of trading in financial markets](https://arxiv.org/pdf/1907.07885)
+- [C++ Design Patterns for Low-Latency Applications Including High-Frequency Trading](https://arxiv.org/pdf/2309.04259)
 
 ### Unpublished AMS abstracts
+These abstracts are all from the 2025 Joint Math Meetings, but were not yet published.
+
 - [Can We See the Next Recession Coming? Deep Learning in Economic Forecasting.](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41055)
 - [FOREX Prediction Using Deep Learning](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/43462)
 - [Deep Learning Techniques for Equity Portfolio Construction, Optimization, and Performance Analysis](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/45238)
 - [Wavelet Based Reinforcement Learning for Pairs Trading Across Multiple Asset Classes](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/45119)
 
 
-## Classic and Historic Literature References
+## Classic and Historic Economic Literature References
 
 - Adam Smith's 1776 [An Inquiry into the Nature and Causes of the Wealth of Nations](https://books.google.com/books/about/The_Wealth_of_Nations.html), often abbreviated as *The Wealth of Nations*, is considered his magnum opus and the first modern work that treats economics as a comprehensive system and an academic discipline.
 - Francis Ysidro Edgeworth is credited with introducing indifference curves in his 1881 book [Mathematical Psychics](https://historyofeconomicthought.mcmaster.ca/edgeworth/mathpsychics.pdf).
@@ -156,7 +160,7 @@ I grew up in Northern Maine, and in 2009 I attended the [Research Science Instit
 As an undergraduate student at Tufts University, I was focused on pure mathematics, studying abroad in Moscow in the summer of 2014, and in 2015 I published a paper in number theory on *p*-adic dynamical systems, [A *p*-adic Perron-Frobenius Theorem](https://arxiv.org/abs/1509.01702).
 I also enjoyed set theory, type theory, category theory, and logic.
 
-Below is a series of images with people who have inspired me. While I could write extensively about each of them, I'll highlight the last two in particular. I was invited, along with other [Research Science Institute](https://www.cee.org/research-science-institute) alumni, to meet [Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) at the [Federal Reserve](https://www.federalreserve.gov/). It was an honor for me to shake his hand and ask his thoughts on a quotation from [Milton Friedman](https://www.nobelprize.org/prizes/economic-sciences/1976/friedman/biographical/), whom he had been discussing with us. Our conversation deepened my interest in monetary policy, particularly the role of monetary aggregates in economic stability. Inspired by his insights, I began exploring financial markets more seriously, studying both historical perspectives and modern quantitative approaches. I also had the opportunity to take a photo with [Dr. Talithia D. Williams](https://www.talithiawilliams.com/), a statistician, educator, and the first African-American woman to achieve tenure at [Harvey Mudd College](https://www.hmc.edu/). When I attended her talk at Tufts, she spoke about using statistics not just as a tool for analysis but as a means to understand inequality and work toward fairness. Her emphasis on the power of data to uncover systemic disparities reinforced my belief in applying mathematics to real-world challenges. Beyond inspiring me to deepen my knowledge of statistics, she has shaped the way I think about leveraging quantitative methods for equity, education, and the public good.
+Below is a series of images with people who have inspired me. While I could write extensively about each of them, I'll highlight the last two in particular. I was invited, along with other [Research Science Institute](https://www.cee.org/research-science-institute) alumni, to meet [Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) at the [Federal Reserve](https://www.federalreserve.gov/). It was an honor for me to shake his hand and ask his thoughts on a quotation from [Milton Friedman](https://www.nobelprize.org/prizes/economic-sciences/1976/friedman/biographical/), whom he had been discussing with us. Our conversation deepened my interest in monetary policy, particularly the role of monetary aggregates in economic stability. Inspired by his insights, I began exploring financial markets more seriously, studying both historical perspectives and modern quantitative approaches. I also had the opportunity to take a photo with [Dr. Talithia D. Williams](https://www.talithiawilliams.com/), a statistician, educator, and the first African-American woman to achieve tenure at [Harvey Mudd College](https://www.hmc.edu/). When I attended her talk at Tufts, she spoke about using statistics not just as a tool for analysis but as a means to understand inequality and work toward fairness. Her emphasis on the power of data to uncover systemic disparities proves we can apply mathematics to real-world challenges. Beyond inspiring me to deepen my knowledge of statistics, she has shaped the way I think about leveraging quantitative methods for equity, education, and the public good.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <div style="max-width: 30%; min-width: 250px;">
