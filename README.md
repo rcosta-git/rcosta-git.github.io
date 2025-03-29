@@ -15,7 +15,7 @@ Hi everyone, this is Rob's page on quantitative finance and algorithmic trading.
 - [Classic and Historic Economic Literature References](#classic-and-historic-economic-literature-references)
 - [Books on trading psychology and methodology](#books-on-trading-psychology-and-methodology)
 - [Mathematicians who have had trading success](#mathematicians-who-have-had-trading-success)
-- [Further Video References](#video-references)
+- [Further Video References](#further-video-references)
   - [Hidden Markov Models & Bayesian Methods](#hidden-markov-models--bayesian-methods)
   - [Long Short-Term Memory (LSTM) & Recurrent Neural Networks (RNN)](#long-short-term-memory-lstm--recurrent-neural-networks-rnn)
   - [Automated analysis and trading in python](#automated-analysis-and-trading-in-python)
