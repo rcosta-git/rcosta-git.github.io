@@ -5,10 +5,29 @@
 
 Hi everyone, this is Rob's page on quantitative finance and algorithmic trading. A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but I am hoping to work on making some finance models more accessible, while keeping some of the code I develop still private between me and my collaborators. Below is some published literature on portfolio analysis and hedging, lists of research journals, classic economics texts, options and futures video tutorials, and more. Investors should contact [Costa Capital Technologies](mailto:owner@CostaCapital.org), which I'm starting up as a nonprofit to support research and development in quantitative analysis of the stock market, structured with for-profit subsidiaries, following the examples of companies like Patagonia and OpenAI. A prototype of our platform is available [here](https://candlesage.streamlit.app/), and I'm actively fundraising to improve it. For my math and logic interests, see my [Google Drive](https://drive.google.com/drive/folders/0B9bvsojRLzQ4fmVhUGdoby1URFRYYVZmMnh4dDFGLVc2YmdUVW5SdEdzZXl4OGF4ajcxajQ?resourcekey=0-XWGB5GzqOjIy6syC3Ah8qw&usp=sharing). Questions? [Contact me](mailto:owner@costacapital.org).
 
+## Table of Contents
+- [Financial Analysis: Start Here](#financial-analysis-start-here)
+  - [Video lecture series](#video-lecture-series)
+  - [Textbooks and articles on core concepts](#textbooks-and-articles-on-core-concepts)
+- [Recent Research](#recent-research)
+  - [Articles on Machine Learning, Mathematical Finance, and High-Frequency Trading](#articles-on-machine-learning-mathematical-finance-and-high-frequency-trading)
+  - [Unpublished AMS abstracts](#unpublished-ams-abstracts)
+- [Classic and Historic Economic Literature References](#classic-and-historic-economic-literature-references)
+- [Books on trading psychology and methodology](#books-on-trading-psychology-and-methodology)
+- [Mathematicians who have had trading success](#mathematicians-who-have-had-trading-success)
+- [Further Video References](#video-references)
+  - [Hidden Markov Models & Bayesian Methods](#hidden-markov-models--bayesian-methods)
+  - [Long Short-Term Memory (LSTM) & Recurrent Neural Networks (RNN)](#long-short-term-memory-lstm--recurrent-neural-networks-rnn)
+  - [Automated analysis and trading in python](#automated-analysis-and-trading-in-python)
+  - [Understanding options](#understanding-options)
+  - [Understanding futures](#understanding-futures)
+- [GitHub repositories](#github-repositories)
+- [Medium articles](#medium-articles)
+
 ## Financial Analysis: Start Here
 
 ### Video lecture series
-Here are a few lecture series on financial mathematics, probability, statitistics, and machine learning:
+Here are a few lecture series on financial mathematics, probability, statistics, and machine learning:
 - [MIT 18.S096 Topics in Mathematics with Applications in Finance, Fall 2013](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 - [MIT 15.401 Finance Theory I, Fall 2008](https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/)
 - [MIT 15.402 Finance Theory II, Spring 2003](https://ocw.mit.edu/courses/15-402-finance-theory-ii-spring-2003/)
@@ -111,7 +130,7 @@ These abstracts are all from the 2025 Joint Math Meetings, but were not yet publ
 - Professor Edward Thorp started one of the first hedge funds based on statistical arbitrage. Check out his autobiography *A Man for all Markets*, along with *Beat the Dealer* and *Beat the Market*.
 - Alongside Thorp as one of the first "quants" who applied mathematical and algorithmic principals to Wall Street is Jim Simons, known in math for the Chern-Simons form, and famous publicly for his hedge fund Rennaissance Technology and its Medallion Fund. His life is chronicled in the biography *The Man Who Solved the Market*.
 
-## Video References
+## Further Video References
 
 ### Hidden Markov Models & Bayesian Methods  
 - [Jim Simons Trading Secrets: Markov Process](https://www.youtube.com/watch?v=76B8_aXcBS0) – QuantProgram  
