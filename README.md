@@ -6,6 +6,23 @@
 Hi everyone, this is Rob's page on quantitative finance and algorithmic trading. A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but I am hoping to work on making some finance models more accessible, while keeping some of the code I develop still private between me and my collaborators. Below is some published literature on portfolio analysis and hedging, lists of research journals, classic economics texts, options and futures video tutorials, and more. Investors should contact [Costa Capital Technologies](mailto:owner@CostaCapital.org), which I'm starting up as a nonprofit to support research and development in quantitative analysis of the stock market, structured with for-profit subsidiaries, following the examples of companies like Patagonia and OpenAI. A prototype of our platform is available [here](https://candlesage.streamlit.app/), and I'm actively fundraising to improve it. For my math and logic interests, see my [Google Drive](https://drive.google.com/drive/folders/0B9bvsojRLzQ4fmVhUGdoby1URFRYYVZmMnh4dDFGLVc2YmdUVW5SdEdzZXl4OGF4ajcxajQ?resourcekey=0-XWGB5GzqOjIy6syC3Ah8qw&usp=sharing). Questions? [Contact me](mailto:owner@costacapital.org).
 
 ## Financial Analysis: Start Here
+
+### Video lecture series
+Here are a few lecture series on financial mathematics, probability, statitistics, and machine learning:
+- [MIT 18.S096 Topics in Mathematics with Applications in Finance, Fall 2013](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+- [MIT 15.401 Finance Theory I, Fall 2008](https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/)
+- [MIT 15.402 Finance Theory II, Spring 2003](https://ocw.mit.edu/courses/15-402-finance-theory-ii-spring-2003/)
+- [MIT 18.650 Statistics for Applications, Fall 2016](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/)
+- [MIT 6.S191: Introduction to Deep Learning](https://introtodeeplearning.com/)
+- [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&si=OxRAXTRH83snkjAP)
+- [MIT RES.6-012 Introduction to Probability, Spring 2018](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&si=j7hlMTqDPHAu0eum)
+- [Stanford CS109: Probability for Computer Scientists](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
+- [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Harvard Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [Harvard CS 224: Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+- [Yale Quantitative Finance](https://www.youtube.com/playlist?list=PL3F00F1C2D402D45C)
+
+### Textbooks and articles on core concepts
 This is a selection of good reference articles and books, organized by publication date:
 
 - [Principles of Economics (Marshall, 1890)](https://www.google.com/books/edition/Principles_of_Economics/7yxBAAAAIAAJ?hl=en&gbpv=0)
