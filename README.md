@@ -56,8 +56,8 @@ This is a selection of good reference articles and books, organized by publicati
 - [Dynamic Asset Pricing Theory (Duffie, 2001)](https://github.com/auscott/books/blob/main/Darrell%20Duffie%20-%20Dynamic%20Asset%20Pricing%20Theory%2C%20Third%20Edition.-Princeton%20University%20Press%20(2001).pdf)
 
 ## Recent Research
-
 Here is a list of some top academic journals:
+
 - [Mathematical Finance - Wiley Online Library](https://onlinelibrary.wiley.com/journal/14679965)
 - [SIAM Journal on Financial Mathematics](https://epubs.siam.org/journal/sjfmbj)
 - [Journal of Mathematical Finance - SCIRP](https://www.scirp.org/journal/jmf/)
@@ -92,6 +92,7 @@ These abstracts are all from the 2025 Joint Math Meetings, but were not yet publ
 
 
 ## Classic and Historic Economic Literature References
+This list contains landmark texts in the history of economics from the last several hundred years. It is an incomplete list, and I wouldn't say it's necessary to read them all, but skim through anything that is of interest and be aware of the timeline:
 
 - Sir William Petty's 1662 [A Treatise of Taxes and Contributions](https://www.gutenberg.org/ebooks/61588) discusses principles of taxation and public expenditure, emphasizing the need for equitable and efficient taxation systems.
 - Adam Smith's 1776 [An Inquiry into the Nature and Causes of the Wealth of Nations](https://books.google.com/books/about/The_Wealth_of_Nations.html), often abbreviated as *The Wealth of Nations*, is considered his magnum opus and the first modern work that treats economics as a comprehensive system and an academic discipline.
@@ -122,16 +123,21 @@ These abstracts are all from the 2025 Joint Math Meetings, but were not yet publ
 - For an overview of the current state of macroeconomics, see Brian Snowdon and Howard Vane's [Modern Macroeconomics](https://www.ricardopanza.com.ar/files/macro2/Modern_Macroeconomics_Snowdon___Vane_05.pdf) (2005) and Sanjay Chugh's [Modern Macroeconomics](https://nibmehub.com/opac-service/pdf/read/Modern%20Macroeconomics.pdf) (2015).
 
 ## Books on trading psychology and methodology
+A lot of what makes someone a good trader is their ability to stick to their system and set emotions aside. One author has even suggested applying the 12 steps to achieve the emotional sobriety necessary for effective trading. While using an automated system may resolve some of these issues, I'd still recommend taking a look at these for the perspective:
+
 - Some good books on trading include *High Probability Trading*, *Option Volatility and Pricing*, *Options Trading: The Bible*, *Get Rich With Options*, and *Mind over Markets*.
 - For more historical perspectives on trading, I also enjoyed reading the *Market Wizards* books, *When Genius Failed*, and Michael Lewis's writings from the last few decades such as *Liar's Poker*.
-- Also for more general tips, *The Money Game*, *Mastering the Trade*, and *Trading in the Zone*, or memoirs like *How I Made $2,000,000 in the Stock Market* from Nicolas Darvas and *Reminiscences of a Stock Operator* about Jesse Livermore.
+- Also for more general tips, *The Money Game*, *Trading for a Living*, *The Zen Trader*, *Winning the Loser's Game*, *Mastering the Trade*, and *Trading in the Zone*, or memoirs like *How I Made $2,000,000 in the Stock Market* from Nicolas Darvas and *Reminiscences of a Stock Operator* about Jesse Livermore.
 
 ## Mathematicians who have had trading success
+I find inspiration in seeing the successes of others from a math background who have applied similar techniques:
+
 - Leibowitz of *Inside the Yield Book* had a PhD in math before going into finance.
 - Professor Edward Thorp started one of the first hedge funds based on statistical arbitrage. Check out his autobiography *A Man for all Markets*, along with *Beat the Dealer* and *Beat the Market*.
 - Alongside Thorp as one of the first "quants" who applied mathematical and algorithmic principals to Wall Street is Jim Simons, known in math for the Chern-Simons form, and famous publicly for his hedge fund Rennaissance Technology and its Medallion Fund. His life is chronicled in the biography *The Man Who Solved the Market*.
 
 ## Further Video References
+I haven't watched all of these, but I've gone through most of them and found them helpful, for those who learn by watching:
 
 ### Hidden Markov Models & Bayesian Methods  
 - [Jim Simons Trading Secrets: Markov Process](https://www.youtube.com/watch?v=76B8_aXcBS0) – QuantProgram  
