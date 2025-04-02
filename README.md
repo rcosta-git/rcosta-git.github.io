@@ -3,7 +3,7 @@
 ### 📚 Navigation 📊
 **[ [Home](README.md) | [About Me](about.md) ]**
 
-Hi everyone, this is Rob's page on quantitative finance and algorithmic trading. A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but I am hoping to work on making some finance models more accessible, while keeping some of the code I develop still private between me and my collaborators. Below is some published literature on portfolio analysis and hedging, lists of research journals, classic economics texts, options and futures video tutorials, and more. Investors should contact [Costa Capital Technologies](mailto:owner@CostaCapital.org), which I'm starting up as a nonprofit to support research and development in quantitative analysis of the stock market, structured with for-profit subsidiaries, following the examples of companies like Patagonia and OpenAI. A prototype of our platform is available [here](https://candlesage.streamlit.app/), and I'm actively fundraising to improve it. For my math and logic interests, see my [Google Drive](https://drive.google.com/drive/folders/0B9bvsojRLzQ4fmVhUGdoby1URFRYYVZmMnh4dDFGLVc2YmdUVW5SdEdzZXl4OGF4ajcxajQ?resourcekey=0-XWGB5GzqOjIy6syC3Ah8qw&usp=sharing). Questions? [Contact me](mailto:owner@costacapital.org).
+Hi everyone, this is Rob's page on quantitative finance and algorithmic trading. A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but I am hoping to work on making some finance models more accessible, while keeping some of the code I develop still private between me and my collaborators. Below is some published literature on portfolio analysis and hedging, lists of research journals, classic economics texts, options and futures video tutorials, and more. Investors should contact [Costa Capital Technologies](mailto:owner@CostaCapital.org), which I'm starting up as a nonprofit to support research and development in quantitative analysis of the stock market, structured with for-profit subsidiaries, following the examples of companies like Patagonia and OpenAI. A prototype of our platform is available [here](https://candlesage.streamlit.app/), and I'm actively fundraising to improve it. For my math and logic interests, see my [Google Drive](https://drive.google.com/drive/folders/0B9bvsojRLzQ4fmVhUGdoby1URFRYYVZmMnh4dDFGLVc2YmdUVW5SdEdzZXl4OGF4ajcxajQ?resourcekey=0-XWGB5GzqOjIy6syC3Ah8qw&usp=sharing). [Contact me.](mailto:owner@costacapital.org)
 
 ## Table of Contents
 - [Financial Analysis: Start Here](#financial-analysis-start-here)
@@ -24,7 +24,7 @@ Hi everyone, this is Rob's page on quantitative finance and algorithmic trading.
 - [GitHub repositories](#github-repositories)
 - [Medium articles](#medium-articles)
 
-## Financial Analysis: Start Here
+## Quantitative Financial Analysis and Trading: Start Here
 
 ### Video lecture series
 Here are a few lecture series on financial mathematics, probability, statistics, and machine learning:
@@ -54,6 +54,15 @@ This is a selection of good reference articles and books, organized by publicati
 - [Portfolio Selection: Efficient Diversification of Investments (Markowitz, 1952)](https://www.math.hkust.edu.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf)
 - [Technical Analysis of the Financial Markets (Murphy, 1999)](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf)
 - [Dynamic Asset Pricing Theory (Duffie, 2001)](https://github.com/auscott/books/blob/main/Darrell%20Duffie%20-%20Dynamic%20Asset%20Pricing%20Theory%2C%20Third%20Edition.-Princeton%20University%20Press%20(2001).pdf)
+
+### Trading strategies
+I essentially see three types of short-term quantitative trading strategies:
+
+1. **Statistical Arbitrage**: It involves identifying a statistical relationship between two or more assets and profiting from the mispricing of the assets (pairs trading).
+2. **Momentum Trading**: Using machine learning algorithms and indicators to identify short-term momentum and scalping profits from temporary long or short positions or options.
+3. **Collecting Premiums**: Identifying options with high premiums and profiting from the selling of the options. This can also involve rangebound strategies like "the wheel."
+
+While my focus is currently on short-term trading, I also have an interest in long-term trading and investment. Quantitative strategies could also take the form of studying a company's balance sheet, competitive positioning, and management practices, and assigning a value to the company based on these factors, engaging in value investing. Building up portfolios of undervalued stocks and holding them for the long term could form one component of this strategy, while diversifying and rebalancing portfolios according to mean-variance analysis, or "modern portfolio theory," as first developed by Markowitz.
 
 ## Recent Research
 Here is a list of some top academic journals:

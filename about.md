@@ -33,8 +33,8 @@ Below is a series of images with people who have inspired me. While I could writ
     <p><small>Rob with donor and philanthropist <a href="https://en.wikipedia.org/wiki/Bill_Cummings_(philanthropist)">Bill Cummings</a> speaking at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
-    <img src="images/tufts_rob_Loring_Tu.jpg" alt="Rob with Loring Tu" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with his mathematics advisor, professor and topologist <a href="https://en.wikipedia.org/wiki/Loring_W._Tu">Loring Tu</a> at Tufts University.</small></p>
+    <img src="images/tufts_rob_Oren_Cass.jpg" alt="Rob with Oren Cass" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with <a href="https://en.wikipedia.org/wiki/Oren_Cass">Oren Cass</a>, Executive Director of American Compass, at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Nic_Shefff.jpg" alt="Rob with Nic Sheff" style="width: 100%; border-radius: 5px;">
