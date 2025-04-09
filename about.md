@@ -45,8 +45,8 @@ Below is a series of images with people who have inspired me. While I could writ
     <p><small>Rob with <a href="https://en.wikipedia.org/wiki/Pete_Wilson">Pete Wilson</a> and <a href="https://en.wikipedia.org/wiki/Gayle_Wilson">Gayle Wilson</a> at a Center for Excellence in Education reunion.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
-    <img src="images/tufts_rob_Mick_Mulvaney.jpg" alt="Rob with Mick Mulvaney" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with Tisch College administrators meeting <a href="https://en.wikipedia.org/wiki/Mick_Mulvaney">Mick Mulvaney</a> at Tufts University.</small></p>
+    <img src="images/tufts_rob_Loring_Tu.jpg" alt="Rob with Professor Loring Tu" style="width: 100%; border-radius: 5px;">
+    <p><small>Rob with Mathematics Professor <a href="https://en.wikipedia.org/wiki/Loring_W._Tu">Loring Tu</a> at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Bob_Frankston.jpeg" alt="Rob with Bob Frankston" style="width: 100%; border-radius: 5px;">
