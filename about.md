@@ -46,7 +46,7 @@ Below is a series of images with people who have inspired me. While I could writ
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Loring_Tu.jpg" alt="Rob with Professor Loring Tu" style="width: 100%; border-radius: 5px;">
-    <p><small>Rob with Mathematics Professor <a href="https://en.wikipedia.org/wiki/Loring_W._Tu">Loring Tu</a> at Tufts University.</small></p>
+    <p><small>Rob with Mathematics Professor <a href="https://en.wikipedia.org/wiki/Loring_W._Tu">Loring Tu</a>, his academic advisor, at Tufts University.</small></p>
   </div>
   <div style="max-width: 30%; min-width: 250px;">
     <img src="images/tufts_rob_Bob_Frankston.jpeg" alt="Rob with Bob Frankston" style="width: 100%; border-radius: 5px;">
