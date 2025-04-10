@@ -28,6 +28,7 @@ Hi everyone, this is Rob's page on quantitative finance and algorithmic trading.
 
 ### Video lecture series
 Here are a few lecture series on financial mathematics, probability, statistics, and machine learning:
+- [MIT 14.01 Principles of Microeconomics, Fall 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP60V7HxLYRaJMbFzP77bzEjb)
 - [MIT 18.S096 Topics in Mathematics with Applications in Finance, Fall 2013](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 - [MIT 15.401 Finance Theory I, Fall 2008](https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/)
 - [MIT 15.402 Finance Theory II, Spring 2003](https://ocw.mit.edu/courses/15-402-finance-theory-ii-spring-2003/)
