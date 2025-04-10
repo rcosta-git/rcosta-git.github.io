@@ -7,6 +7,7 @@ Hi everyone, this is Rob's page on quantitative finance and algorithmic trading.
 
 ## Table of Contents
 - [Financial Analysis: Start Here](#financial-analysis-start-here)
+  - [Introduction](#introduction)
   - [Video lecture series](#video-lecture-series)
   - [Textbooks and articles on core concepts](#textbooks-and-articles-on-core-concepts)
 - [Recent Research](#recent-research)
@@ -26,6 +27,18 @@ Hi everyone, this is Rob's page on quantitative finance and algorithmic trading.
 
 ## Quantitative Financial Analysis and Trading: Start Here
 
+### Introduction
+
+Interactive Brokers (IBKR) has a nice [introduction to algorithmic trading](https://www.interactivebrokers.com/campus/ibkr-quant-news/retail-algorithmic-trading-a-complete-guide/)
+and a well-documented API, alongside brokers like TastyTrade, E*Trade and Webull.
+I essentially see three types of accessible short-term quantitative trading strategies:
+
+1. **Statistical Arbitrage**: It involves identifying a statistical relationship between two or more assets and profiting from the mispricing of the assets (pairs trading).
+2. **Momentum Trading**: Using machine learning algorithms and indicators to identify short-term momentum and scalping profits from temporary long or short positions or options.
+3. **Collecting Premiums**: Identifying options with high premiums and profiting from the selling of the options. This can also involve rangebound strategies like "the wheel."
+
+While my focus is currently on short-term trading, I also have an interest in long-term trading and investment. Quantitative strategies could also take the form of studying a company's balance sheet, competitive positioning, and management practices, and assigning a value to the company based on these factors, engaging in value investing. Building up portfolios of undervalued stocks and holding them for the long term could form one component of this strategy, while diversifying and rebalancing portfolios according to mean-variance analysis, or "modern portfolio theory," as first developed by Markowitz.
+
 ### Video lecture series
 Here are a few lecture series on financial mathematics, probability, statistics, and machine learning:
 - [MIT 14.01 Principles of Microeconomics, Fall 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP60V7HxLYRaJMbFzP77bzEjb)
@@ -42,7 +55,7 @@ Here are a few lecture series on financial mathematics, probability, statistics,
 - [Harvard CS 224: Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 - [Yale Quantitative Finance](https://www.youtube.com/playlist?list=PL3F00F1C2D402D45C)
 
-### Textbooks and articles on core concepts
+###  Reference Textbooks and articles on core concepts
 This is a selection of good reference articles and books, organized by publication date:
 
 - [Principles of Economics (Marshall, 1890)](https://www.google.com/books/edition/Principles_of_Economics/7yxBAAAAIAAJ?hl=en&gbpv=0)
@@ -58,15 +71,6 @@ This is a selection of good reference articles and books, organized by publicati
 - [Python for Finance (Hilpisch, 2014)](https://www.oreilly.com/library/view/python-for-finance/9781491945360/)
 - [Python for Algorithmic Trading (Hilpisch, 2020)](https://www.oreilly.com/library/view/python-for-algorithmic/9781492053347/)
 - [Machine Learning for Algorithmic Trading (Jansen, 2020)](https://github.com/stefan-jansen/machine-learning-for-trading)
-
-### Trading strategies
-I essentially see three types of short-term quantitative trading strategies:
-
-1. **Statistical Arbitrage**: It involves identifying a statistical relationship between two or more assets and profiting from the mispricing of the assets (pairs trading).
-2. **Momentum Trading**: Using machine learning algorithms and indicators to identify short-term momentum and scalping profits from temporary long or short positions or options.
-3. **Collecting Premiums**: Identifying options with high premiums and profiting from the selling of the options. This can also involve rangebound strategies like "the wheel."
-
-While my focus is currently on short-term trading, I also have an interest in long-term trading and investment. Quantitative strategies could also take the form of studying a company's balance sheet, competitive positioning, and management practices, and assigning a value to the company based on these factors, engaging in value investing. Building up portfolios of undervalued stocks and holding them for the long term could form one component of this strategy, while diversifying and rebalancing portfolios according to mean-variance analysis, or "modern portfolio theory," as first developed by Markowitz.
 
 ## Recent Research
 Here is a list of some top academic journals:
