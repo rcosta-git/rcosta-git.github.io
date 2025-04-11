@@ -1,7 +1,6 @@
-# About Me
+# About Me: Rob Costa
 
-### 📚 Navigation 📊
-**[ [Home](README.md) | [About Me](about.md) ]**
+### 📚 Navigation 📊 &nbsp;&nbsp;&nbsp; **[ [Home](README.md) | [About Me](about.md) ]**
 
 Hi everyone, this is Rob.
 I'm a senior systems developer at [InterSystems Corporation](https://www.intersystems.com/), where I have worked on InterSystems IntelliCare™ electronic health record and InterSystems IRIS® data platform that evolved out of [M(UMPS) database programming](https://en.wikipedia.org/wiki/MUMPS). I'm starting a PhD at [Tufts University](https://www.tufts.edu/) in low-latency execution, after completing a master's in computer science there.

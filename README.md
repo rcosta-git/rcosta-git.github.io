@@ -1,7 +1,6 @@
-# Rob Costa's Financial Mathematics and Automated Trading Resource Page
+# Rob's Quant Econ and Algo Trading Resource Page
 
-### 📚 Navigation 📊
-**[ [Home](README.md) | [About Me](about.md) ]**
+### 📚 Navigation 📊 &nbsp;&nbsp;&nbsp; **[ [Home](README.md) | [About Me](about.md) ]**
 
 Hi everyone, this is Rob's page on quantitative finance and algorithmic trading.
 A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but I am hoping to work on making some finance models more accessible, while keeping some of the code I develop still private between me and my collaborators.
