@@ -71,6 +71,7 @@ This is a selection of good reference articles and books, organized by publicati
 - [Portfolio Selection: Efficient Diversification of Investments (Markowitz, 1952)](https://www.math.hkust.edu.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf)
 - [Technical Analysis of the Financial Markets (Murphy, 1999)](https://github.com/ShamaUgale/myBooks/blob/master/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf)
 - [Dynamic Asset Pricing Theory (Duffie, 2001)](https://github.com/auscott/books/blob/main/Darrell%20Duffie%20-%20Dynamic%20Asset%20Pricing%20Theory%2C%20Third%20Edition.-Princeton%20University%20Press%20(2001).pdf)
+- [Hidden Markov Models Lecture Notes (van Handel, 2008)](https://web.math.princeton.edu/~rvan/orf557/hmm080728.pdf)
 - [Python for Finance (Hilpisch, 2014)](https://www.oreilly.com/library/view/python-for-finance/9781491945360/)
 - [Python for Algorithmic Trading (Hilpisch, 2020)](https://www.oreilly.com/library/view/python-for-algorithmic/9781492053347/)
 - [Machine Learning for Algorithmic Trading (Jansen, 2020)](https://github.com/stefan-jansen/machine-learning-for-trading)
