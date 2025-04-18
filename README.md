@@ -4,9 +4,9 @@
 
 Hi everyone, this is Rob's page on quantitative finance and algorithmic trading.
 A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but I am hoping to work on making some finance models more accessible, while keeping some of the code I develop still private between me and my collaborators.
-Below is some published literature on portfolio analysis and hedging, lists of research journals, classic economics texts, options and futures video tutorials, and more. Investors should contact [Costa Capital Technologies](mailto:owner@CostaCapital.org), which I'm starting up as a nonprofit to support research and development in quantitative analysis of the stock market, structured with for-profit subsidiaries, following the examples of companies like Patagonia and OpenAI. A prototype of our platform is available [here](https://candlesage.streamlit.app/), and I'm actively fundraising to improve it.
+Below is some published literature on portfolio analysis and hedging, lists of research journals, classic economics texts, options and futures video tutorials, and more. Investors should contact me at [Acadia Analytics LLC](mailto:rob@acadia-analytics.app). A prototype of our platform is available [here](https://candlesage.streamlit.app/), and I'm actively fundraising to improve it.
 For math and logic, see my [Google Drive](https://drive.google.com/drive/folders/0B9bvsojRLzQ4fmVhUGdoby1URFRYYVZmMnh4dDFGLVc2YmdUVW5SdEdzZXl4OGF4ajcxajQ?resourcekey=0-XWGB5GzqOjIy6syC3Ah8qw&usp=sharing).
-[Contact me.](mailto:robert_j.costa@tufts.edu)
+For academic questions, contact me at my [Tufts email](mailto:robert_j.costa@tufts.edu).
 
 ## Table of Contents
 - [Financial Analysis: Start Here](#financial-analysis-start-here)
@@ -210,6 +210,11 @@ Futures, like options, are also a type of derivative, whose price is based on an
 - [What are Futures? - the Plain Bagel](https://www.youtube.com/watch?v=1Mhk4UHJsRc)
 - [What are futures? - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=nwR5b6E0Xo4)
 - [Understanding Futures Margin - Charles Schwab](https://www.youtube.com/watch?v=zPyLCUQdh7I)
+- [Differences Between Futures and Forward Contracts](https://www.youtube.com/watch?v=3bPRN_GhHiY)
+
+### Understanding forex
+
+Forex (foreign exchange) trading involves the global decentralized market for currency exchange. Unlike futures (which operate 23/5), the spot forex market operates 24/5, and is traded in pairs of currencies (e.g., USD/JPY, GBP/USD, etc.). Currency futures, also known as an FX future or a foreign exchange future, is a futures contract to exchange one currency for another at a specified date in the future at a price (exchange rate) that is fixed on the purchase date.
 
 ## GitHub repositories
 - [thequantpy](https://github.com/thequantpy)
