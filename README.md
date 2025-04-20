@@ -59,7 +59,6 @@ Here are a few lecture series on financial mathematics, probability, statistics,
 - [Yale Quantitative Finance](https://www.youtube.com/playlist?list=PL3F00F1C2D402D45C)
 - [Yale Game Theory](https://youtube.com/playlist?list=PL6EF60E1027E1A10B&si=MedR-5RW3z5EamRA)
 - [Yale Financial Markets](https://youtube.com/playlist?list=PL8FB14A2200B87185&si=cxqTn5tWoylHw21z)
-- [Yale Financial Theory](https://youtube.com/playlist?list=PLEDC55106E0BA18FC&si=pvSJpF2zhk28W3J1)
 - [Yale History of Capitalism](https://youtube.com/playlist?list=PL2497FD1251EED4DD&si=roT79EA6n1q8XGyC)
 
 ###  Reference Textbooks and articles on core concepts
