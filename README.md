@@ -32,15 +32,18 @@ For academic questions, contact me at my [Tufts email](mailto:robert_j.costa@tuf
 
 ### Introduction
 
-Interactive Brokers (IBKR) has a nice [introduction to algorithmic trading](https://www.interactivebrokers.com/campus/ibkr-quant-news/retail-algorithmic-trading-a-complete-guide/)
-and a well-documented API, alongside brokers like TastyTrade, E*Trade and Webull.
 I essentially see three types of accessible short-term quantitative trading strategies:
 
 1. **Statistical Arbitrage**: It involves identifying a statistical relationship between two or more assets and profiting from the mispricing of the assets (pairs trading).
 2. **Momentum Trading**: Using machine learning algorithms and indicators to identify short-term momentum and scalping profits from temporary long or short positions or options.
 3. **Collecting Premiums**: Identifying options with high premiums and profiting from the selling of the options. This can also involve rangebound strategies like "the wheel."
 
-While my focus is currently on short-term trading, I also have an interest in long-term trading and investment. Quantitative strategies could also take the form of studying a company's balance sheet, competitive positioning, and management practices, and assigning a value to the company based on these factors, engaging in value investing. Building up portfolios of undervalued stocks and holding them for the long term could form one component of this strategy, while diversifying and rebalancing portfolios according to mean-variance analysis, or "modern portfolio theory," as first developed by Markowitz.
+While my focus is currently on short-term trading, I also have an interest in long-term trading and investment. Quantitative strategies could also take the form of studying a company's balance sheet, competitive positioning, and management practices, and assigning a value to the company based on these factors, engaging in value investing. Building up portfolios of undervalued stocks and holding them for the long term could form one component of this strategy, while diversifying and rebalancing portfolios according to mean-variance analysis, or "modern portfolio theory," as first developed by Markowitz. Several related pages:
+- Interactive Brokers (IBKR) has a nice [introduction to algorithmic trading](https://www.interactivebrokers.com/campus/ibkr-quant-news/retail-algorithmic-trading-a-complete-guide/)
+and a well-documented API, alongside brokers like TastyTrade, E*Trade and Webull.
+- [Quantocracy](https://quantocracy.com/) and [QuantSeeker](https://www.quantseeker.com/), [QuantStart](https://www.quantstart.com/) list lots of articles and academic research on quantitative trading.
+- [OpenQuant-Community](https://github.com/OpenQuant-Community/quant-fund) is a China-based open quant trading community with some resources on GitHub.
+- [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) is another collection of great resources on GitHub.
 
 ### Video lecture series
 Here are a few lecture series on financial mathematics, probability, statistics, and machine learning:
