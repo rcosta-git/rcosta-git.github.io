@@ -158,7 +158,7 @@ This list contains landmark texts in the history of economics from the last seve
 A lot of what makes someone a good trader is their ability to stick to their system and set emotions aside. One author has even suggested applying the 12 steps to achieve the emotional sobriety necessary for effective trading. While using an automated system may resolve some of these issues, I'd still recommend taking a look at these for the perspective:
 
 - Some good books on trading include *High Probability Trading*, *Option Volatility and Pricing*, *Options Trading: The Bible*, *Get Rich With Options*, and *Mind over Markets*.
-- For more historical perspectives on trading, I also enjoyed reading the *Market Wizards* books, *When Genius Failed*, and Michael Lewis's writings from the last few decades such as *Liar's Poker*.
+- For more historical perspectives on trading, I also enjoyed reading the *Market Wizards* books, *When Genius Failed*, Michael Lewis's writings from the last few decades such as *Liar's Poker* through *Going Infinite*, and *The Complete TurtleTrader* about the Turtle Trading experiment. 
 - Also for more general tips, *The Money Game*, *Trading for a Living*, *The Zen Trader*, *Winning the Loser's Game*, *Mastering the Trade*, and *Trading in the Zone*, or memoirs like *How I Made $2,000,000 in the Stock Market* from Nicolas Darvas and *Reminiscences of a Stock Operator* about Jesse Livermore.
 
 ## Mathematicians who have had trading success
