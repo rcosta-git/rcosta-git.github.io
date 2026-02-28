@@ -4,7 +4,7 @@
 
 Hi everyone, this is Rob's page on quantitative finance and algorithmic trading.
 A lot of what happens at the hedge funds doing quantitative analysis is [quite secretive](https://www.marketwatch.com/story/renaissance-millennium-settle-trade-secrets-dispute), but I am hoping to work on making some finance models more accessible, while keeping some of the code I develop still private between me and my collaborators.
-Below is some published literature on portfolio analysis and hedging, lists of research journals, classic economics texts, options and futures video tutorials, and more. Investors should contact me at [Acadia Analytics LLC](mailto:rob@acadia-analytics.app). A prototype of our platform is available [here](https://candlesage.streamlit.app/), and I'm actively fundraising to improve it.
+Below is some published literature on portfolio analysis and hedging, lists of research journals, classic economics texts, options and futures video tutorials, and more. Investors should contact me at [Acadia Analytics](mailto:rob@acadia-analytics.app). A prototype of our platform is available [here](https://candlesage.streamlit.app/), and I'm actively fundraising to improve it.
 For math and logic, see my [Google Drive](https://drive.google.com/drive/folders/0B9bvsojRLzQ4fmVhUGdoby1URFRYYVZmMnh4dDFGLVc2YmdUVW5SdEdzZXl4OGF4ajcxajQ?resourcekey=0-XWGB5GzqOjIy6syC3Ah8qw&usp=sharing).
 For academic questions, contact me at my [Tufts email](mailto:robert_j.costa@tufts.edu).
 
