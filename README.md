@@ -249,4 +249,4 @@ Forex (foreign exchange) trading involves the global decentralized market for cu
 - [An Algo Trading Strategy That Made 8,371% – A Python Case Study](https://levelup.gitconnected.com/an-algo-trading-strategy-which-made-8-371-a-python-case-study-58ed12a492dc)
 - [An In-Depth Guide on Mathematically Improving Your Trading Strategy](https://medium.datadriveninvestor.com/an-in-depth-guide-on-mathematically-improving-your-trading-strategy-fa8ac2a0e5da)
 
-© 2025 Robert Costa. All rights reserved.
+© 2026 Robert Costa. All rights reserved.
