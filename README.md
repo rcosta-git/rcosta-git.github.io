@@ -9,7 +9,7 @@ For math and logic, see my [Google Drive](https://drive.google.com/drive/folders
 For academic questions, contact me at my [Tufts email](mailto:robert_j.costa@tufts.edu).
 
 ## Table of Contents
-- [Financial Analysis: Start Here](#financial-analysis-start-here)
+- [Financial Analysis: Start Here](#quantitative-financial-analysis-start-here)
   - [Introduction](#introduction)
   - [Video lecture series](#video-lecture-series)
   - [Textbooks and articles on core concepts](#textbooks-and-articles-on-core-concepts)
